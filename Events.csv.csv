@@ -1,0 +1,721 @@
+﻿session_id,customer_id,event_time,event_type,traffic_source,device_type,product_id,product_name,category,order_id,region,event_date,event_month,Event Year,Event Day
+SES001188,CUST00778,01-01-2026,purchase,Search,Mobile,P015,Dumbbell Set,Sports & Fitness,ORD000212,Central,01-01-2026,2026-01,2026,Thursday
+SES000660,CUST00218,01-01-2026,purchase,Social,Mobile,P017,Hair Dryer,Beauty & Personal Care,ORD000068,South,01-01-2026,2026-01,2026,Thursday
+SES002311,CUST01275,01-01-2026,purchase,Direct,Mobile,P006,Cotton T-Shirt,Fashion,ORD000668,South,01-01-2026,2026-01,2026,Thursday
+SES002415,CUST00915,01-01-2026,purchase,Email,Tablet,P003,Bluetooth Speaker,Electronics,ORD000265,North,01-01-2026,2026-01,2026,Thursday
+SES001316,CUST01701,01-01-2026,purchase,Social,Desktop,P014,Yoga Mat,Sports & Fitness,ORD000336,South,01-01-2026,2026-01,2026,Thursday
+SES000922,CUST00130,01-01-2026,purchase,Direct,Mobile,P013,Study Table,Furniture,ORD000046,East,01-01-2026,2026-01,2026,Thursday
+SES002794,CUST01666,01-01-2026,purchase,Referral,Desktop,P017,Hair Dryer,Beauty & Personal Care,ORD001164,North,01-01-2026,2026-01,2026,Thursday
+SES001712,CUST00775,01-01-2026,View,Search,Mobile,P003,Bluetooth Speaker,Electronics,ORD000258,Central,01-01-2026,2026-01,2026,Thursday
+SES003357,CUST01063,02-01-2026,View,Direct,Desktop,P006,Cotton T-Shirt,Fashion,ORD000537,South,02-01-2026,2026-01,2026,Friday
+SES002569,CUST01502,02-01-2026,View,Referral,Mobile,P014,Yoga Mat,Sports & Fitness,ORD000428,West,02-01-2026,2026-01,2026,Friday
+SES001807,CUST00237,02-01-2026,purchase,Email,Desktop,P003,Bluetooth Speaker,Electronics,ORD000310,South,02-01-2026,2026-01,2026,Friday
+SES002350,CUST01655,02-01-2026,purchase,Direct,Mobile,P008,Mixer Grinder,Home & Kitchen,ORD001015,West,02-01-2026,2026-01,2026,Friday
+SES001272,CUST01009,02-01-2026,purchase,Referral,Mobile,P007,Coffee Maker,Home & Kitchen,ORD001180,West,02-01-2026,2026-01,2026,Friday
+SES001796,CUST00055,02-01-2026,purchase,Search,Mobile,P004,Laptop Backpack,Fashion,ORD000217,South,02-01-2026,2026-01,2026,Friday
+SES003331,CUST01325,03-01-2026,purchase,Social,Desktop,P012,Office Chair,Furniture,ORD000682,North,03-01-2026,2026-01,2026,Saturday
+SES002485,CUST01131,03-01-2026,purchase,Referral,Mobile,P002,Smart Watch,Electronics,ORD000604,West,03-01-2026,2026-01,2026,Saturday
+SES001950,CUST00051,04-01-2026,purchase,Search,Desktop,P010,Notebook Set,Books & Stationery,ORD000092,West,04-01-2026,2026-01,2026,Sunday
+SES001822,CUST01406,04-01-2026,purchase,Referral,Desktop,P019,Sunglasses,Fashion,ORD001050,East,04-01-2026,2026-01,2026,Sunday
+SES001588,CUST01297,05-01-2026,View,Direct,Desktop,P017,Hair Dryer,Beauty & Personal Care,ORD000888,North,05-01-2026,2026-01,2026,Monday
+SES002244,CUST01148,05-01-2026,purchase,Referral,Desktop,P010,Notebook Set,Books & Stationery,ORD001344,South,05-01-2026,2026-01,2026,Monday
+SES000075,CUST01672,05-01-2026,purchase,Search,Mobile,P014,Yoga Mat,Sports & Fitness,ORD001232,Central,05-01-2026,2026-01,2026,Monday
+SES003507,CUST01312,05-01-2026,purchase,Search,Tablet,P001,Wireless Earbuds,Electronics,ORD000243,East,05-01-2026,2026-01,2026,Monday
+SES001658,CUST01405,05-01-2026,purchase,Referral,Mobile,P007,Coffee Maker,Home & Kitchen,ORD001267,Central,05-01-2026,2026-01,2026,Monday
+SES002762,CUST00293,06-01-2026,purchase,Search,Mobile,P003,Bluetooth Speaker,Electronics,ORD000566,West,06-01-2026,2026-01,2026,Tuesday
+SES002459,CUST00986,06-01-2026,purchase,Social,Desktop,P015,Dumbbell Set,Sports & Fitness,ORD000505,South,06-01-2026,2026-01,2026,Tuesday
+SES002637,CUST00098,06-01-2026,purchase,Referral,Desktop,P008,Mixer Grinder,Home & Kitchen,ORD000385,West,06-01-2026,2026-01,2026,Tuesday
+SES001126,CUST01725,06-01-2026,purchase,Social,Tablet,P010,Notebook Set,Books & Stationery,ORD000168,East,06-01-2026,2026-01,2026,Tuesday
+SES000070,CUST01683,06-01-2026,purchase,Search,Mobile,P014,Yoga Mat,Sports & Fitness,ORD000843,Central,06-01-2026,2026-01,2026,Tuesday
+SES002667,CUST01231,06-01-2026,purchase,Referral,Mobile,P005,Running Shoes,Fashion,ORD001036,East,06-01-2026,2026-01,2026,Tuesday
+SES002651,CUST00935,06-01-2026,purchase,Direct,Desktop,P006,Cotton T-Shirt,Fashion,ORD000487,Central,06-01-2026,2026-01,2026,Tuesday
+SES002430,CUST00349,06-01-2026,purchase,Search,Mobile,P004,Laptop Backpack,Fashion,ORD000685,West,06-01-2026,2026-01,2026,Tuesday
+SES002999,CUST01646,07-01-2026,purchase,Search,Desktop,P020,Kitchen Storage Box,Home & Kitchen,ORD000105,South,07-01-2026,2026-01,2026,Wednesday
+SES000013,CUST00133,07-01-2026,purchase,Email,Desktop,P016,Face Wash,Beauty & Personal Care,ORD000717,East,07-01-2026,2026-01,2026,Wednesday
+SES001600,CUST01791,07-01-2026,purchase,Search,Mobile,P005,Running Shoes,Fashion,ORD000227,North,07-01-2026,2026-01,2026,Wednesday
+SES003257,CUST00381,07-01-2026,purchase,Direct,Desktop,P020,Kitchen Storage Box,Home & Kitchen,ORD000796,South,07-01-2026,2026-01,2026,Wednesday
+SES000251,CUST01291,07-01-2026,purchase,Search,Mobile,P002,Smart Watch,Electronics,ORD001303,Central,07-01-2026,2026-01,2026,Wednesday
+SES000405,CUST01390,07-01-2026,purchase,Social,Mobile,P001,Wireless Earbuds,Electronics,ORD000602,South,07-01-2026,2026-01,2026,Wednesday
+SES002336,CUST00194,07-01-2026,purchase,Search,Mobile,P007,Coffee Maker,Home & Kitchen,ORD000951,Central,07-01-2026,2026-01,2026,Wednesday
+SES002335,CUST00610,07-01-2026,View,Social,Mobile,P005,Running Shoes,Fashion,ORD000349,North,07-01-2026,2026-01,2026,Wednesday
+SES000973,CUST00947,07-01-2026,View,Referral,Tablet,P006,Cotton T-Shirt,Fashion,ORD001056,North,07-01-2026,2026-01,2026,Wednesday
+SES003213,CUST01440,08-01-2026,View,Direct,Tablet,P018,Phone Charger,Electronics,ORD000534,South,08-01-2026,2026-01,2026,Thursday
+SES003021,CUST01257,08-01-2026,View,Social,Desktop,P005,Running Shoes,Fashion,ORD000743,West,08-01-2026,2026-01,2026,Thursday
+SES002748,CUST01501,08-01-2026,purchase,Search,Mobile,P005,Running Shoes,Fashion,ORD000482,West,08-01-2026,2026-01,2026,Thursday
+SES001451,CUST01500,08-01-2026,purchase,Social,Mobile,P016,Face Wash,Beauty & Personal Care,ORD000359,West,08-01-2026,2026-01,2026,Thursday
+SES000624,CUST01448,09-01-2026,purchase,Direct,Desktop,P007,Coffee Maker,Home & Kitchen,ORD000189,West,09-01-2026,2026-01,2026,Friday
+SES000241,CUST01113,09-01-2026,purchase,Referral,Desktop,P020,Kitchen Storage Box,Home & Kitchen,ORD000637,North,09-01-2026,2026-01,2026,Friday
+SES001849,CUST01591,10-01-2026,purchase,Social,Mobile,P013,Study Table,Furniture,ORD001010,South,10-01-2026,2026-01,2026,Saturday
+SES003156,CUST00711,10-01-2026,purchase,Direct,Mobile,P005,Running Shoes,Fashion,ORD001291,West,10-01-2026,2026-01,2026,Saturday
+SES002129,CUST00471,10-01-2026,purchase,Social,Mobile,P014,Yoga Mat,Sports & Fitness,ORD000278,South,10-01-2026,2026-01,2026,Saturday
+SES002126,CUST00589,10-01-2026,purchase,Social,Mobile,P017,Hair Dryer,Beauty & Personal Care,ORD001372,North,10-01-2026,2026-01,2026,Saturday
+SES001535,CUST00693,10-01-2026,purchase,Email,Tablet,P017,Hair Dryer,Beauty & Personal Care,ORD000877,Central,10-01-2026,2026-01,2026,Saturday
+SES002825,CUST01334,10-01-2026,purchase,Search,Desktop,P013,Study Table,Furniture,ORD000384,West,10-01-2026,2026-01,2026,Saturday
+SES001107,CUST01599,10-01-2026,purchase,Referral,Desktop,P012,Office Chair,Furniture,ORD000597,Central,10-01-2026,2026-01,2026,Saturday
+SES001304,CUST01010,11-01-2026,purchase,Search,Desktop,P007,Coffee Maker,Home & Kitchen,ORD000196,West,11-01-2026,2026-01,2026,Sunday
+SES002787,CUST00075,11-01-2026,purchase,Social,Tablet,P020,Kitchen Storage Box,Home & Kitchen,ORD000326,East,11-01-2026,2026-01,2026,Sunday
+SES001574,CUST00448,11-01-2026,purchase,Search,Mobile,P005,Running Shoes,Fashion,ORD000749,West,11-01-2026,2026-01,2026,Sunday
+SES002538,CUST01609,12-01-2026,purchase,Social,Mobile,P001,Wireless Earbuds,Electronics,ORD001253,West,12-01-2026,2026-01,2026,Monday
+SES003353,CUST01108,12-01-2026,View,Referral,Mobile,P005,Running Shoes,Fashion,ORD001393,North,12-01-2026,2026-01,2026,Monday
+SES002153,CUST01165,12-01-2026,purchase,Search,Mobile,P001,Wireless Earbuds,Electronics,ORD000532,West,12-01-2026,2026-01,2026,Monday
+SES001616,CUST00825,12-01-2026,purchase,Referral,Desktop,P011,Programming Book,Books & Stationery,ORD000109,South,12-01-2026,2026-01,2026,Monday
+SES001942,CUST01668,12-01-2026,purchase,Email,Mobile,P011,Programming Book,Books & Stationery,ORD001270,West,12-01-2026,2026-01,2026,Monday
+SES002382,CUST00115,13-01-2026,purchase,Referral,Mobile,P011,Programming Book,Books & Stationery,ORD000686,West,13-01-2026,2026-01,2026,Tuesday
+SES003132,CUST00885,13-01-2026,purchase,Search,Tablet,P010,Notebook Set,Books & Stationery,ORD000599,West,13-01-2026,2026-01,2026,Tuesday
+SES002619,CUST00814,13-01-2026,purchase,Email,Desktop,P007,Coffee Maker,Home & Kitchen,ORD000101,South,13-01-2026,2026-01,2026,Tuesday
+SES001095,CUST00952,13-01-2026,purchase,Referral,Mobile,P007,Coffee Maker,Home & Kitchen,ORD000644,Central,13-01-2026,2026-01,2026,Tuesday
+SES002431,CUST01464,13-01-2026,purchase,Search,Mobile,P015,Dumbbell Set,Sports & Fitness,ORD000547,North,13-01-2026,2026-01,2026,Tuesday
+SES001365,CUST00635,13-01-2026,purchase,Search,Mobile,P018,Phone Charger,Electronics,ORD000964,Central,13-01-2026,2026-01,2026,Tuesday
+SES002730,CUST00714,13-01-2026,purchase,Email,Mobile,P007,Coffee Maker,Home & Kitchen,ORD000297,East,13-01-2026,2026-01,2026,Tuesday
+SES002518,CUST01561,13-01-2026,purchase,Direct,Desktop,P004,Laptop Backpack,Fashion,ORD001005,South,13-01-2026,2026-01,2026,Tuesday
+SES000834,CUST00844,13-01-2026,purchase,Direct,Mobile,P010,Notebook Set,Books & Stationery,ORD001134,North,13-01-2026,2026-01,2026,Tuesday
+SES000162,CUST00871,14-01-2026,purchase,Search,Mobile,P016,Face Wash,Beauty & Personal Care,ORD000953,South,14-01-2026,2026-01,2026,Wednesday
+SES002714,CUST00443,14-01-2026,purchase,Direct,Desktop,P020,Kitchen Storage Box,Home & Kitchen,ORD000226,West,14-01-2026,2026-01,2026,Wednesday
+SES002265,CUST00414,14-01-2026,purchase,Search,Mobile,P005,Running Shoes,Fashion,ORD000529,Central,14-01-2026,2026-01,2026,Wednesday
+SES000853,CUST01625,15-01-2026,purchase,Search,Mobile,P005,Running Shoes,Fashion,ORD001286,West,15-01-2026,2026-01,2026,Thursday
+SES000641,CUST01300,15-01-2026,purchase,Search,Mobile,P018,Phone Charger,Electronics,ORD001139,East,15-01-2026,2026-01,2026,Thursday
+SES000934,CUST00705,15-01-2026,purchase,Email,Desktop,P011,Programming Book,Books & Stationery,ORD000569,North,15-01-2026,2026-01,2026,Thursday
+SES001481,CUST00276,15-01-2026,purchase,Search,Desktop,P010,Notebook Set,Books & Stationery,ORD001185,West,15-01-2026,2026-01,2026,Thursday
+SES002254,CUST01414,16-01-2026,purchase,Social,Tablet,P012,Office Chair,Furniture,ORD000987,West,16-01-2026,2026-01,2026,Friday
+SES001447,CUST01764,16-01-2026,purchase,Direct,Desktop,P011,Programming Book,Books & Stationery,ORD001064,Central,16-01-2026,2026-01,2026,Friday
+SES002842,CUST01691,16-01-2026,purchase,Social,Mobile,P011,Programming Book,Books & Stationery,ORD000741,East,16-01-2026,2026-01,2026,Friday
+SES001920,CUST01025,16-01-2026,purchase,Social,Mobile,P019,Sunglasses,Fashion,ORD001171,East,16-01-2026,2026-01,2026,Friday
+SES003351,CUST00755,16-01-2026,purchase,Search,Mobile,P003,Bluetooth Speaker,Electronics,ORD001071,South,16-01-2026,2026-01,2026,Friday
+SES003414,CUST01464,17-01-2026,purchase,Direct,Mobile,P005,Running Shoes,Fashion,ORD000583,South,17-01-2026,2026-01,2026,Saturday
+SES001992,CUST01342,17-01-2026,purchase,Search,Desktop,P013,Study Table,Furniture,ORD000442,Central,17-01-2026,2026-01,2026,Saturday
+SES000414,CUST00792,17-01-2026,purchase,Direct,Desktop,P014,Yoga Mat,Sports & Fitness,ORD000855,West,17-01-2026,2026-01,2026,Saturday
+SES002972,CUST00291,17-01-2026,purchase,Referral,Mobile,P004,Laptop Backpack,Fashion,ORD001301,South,17-01-2026,2026-01,2026,Saturday
+SES001911,CUST00372,17-01-2026,purchase,Search,Mobile,P012,Office Chair,Furniture,ORD000486,West,17-01-2026,2026-01,2026,Saturday
+SES000777,CUST00418,18-01-2026,purchase,Direct,Desktop,P011,Programming Book,Books & Stationery,ORD000133,South,18-01-2026,2026-01,2026,Sunday
+SES000638,CUST00102,18-01-2026,purchase,Search,Mobile,P019,Sunglasses,Fashion,ORD000429,North,18-01-2026,2026-01,2026,Sunday
+SES003438,CUST00147,18-01-2026,purchase,Referral,Desktop,P015,Dumbbell Set,Sports & Fitness,ORD000262,East,18-01-2026,2026-01,2026,Sunday
+SES003269,CUST01169,19-01-2026,purchase,Social,Desktop,P013,Study Table,Furniture,ORD001112,East,19-01-2026,2026-01,2026,Monday
+SES000761,CUST00553,19-01-2026,purchase,Email,Mobile,P013,Study Table,Furniture,ORD001100,West,19-01-2026,2026-01,2026,Monday
+SES001623,CUST01320,19-01-2026,add_to_cart,Direct,Mobile,P010,Notebook Set,Books & Stationery,ORD000375,South,19-01-2026,2026-01,2026,Monday
+SES003450,CUST00002,19-01-2026,add_to_cart,Search,Desktop,P002,Smart Watch,Electronics,ORD000942,South,19-01-2026,2026-01,2026,Monday
+SES003518,CUST01440,19-01-2026,add_to_cart,Referral,Mobile,P009,Water Bottle,Home & Kitchen,ORD000970,South,19-01-2026,2026-01,2026,Monday
+SES003130,CUST01338,20-01-2026,add_to_cart,Social,Desktop,P011,Programming Book,Books & Stationery,ORD000988,North,20-01-2026,2026-01,2026,Tuesday
+SES000456,CUST00296,20-01-2026,add_to_cart,Referral,Mobile,P008,Mixer Grinder,Home & Kitchen,ORD000412,South,20-01-2026,2026-01,2026,Tuesday
+SES001341,CUST00021,20-01-2026,purchase,Search,Mobile,P009,Water Bottle,Home & Kitchen,ORD001338,West,20-01-2026,2026-01,2026,Tuesday
+SES001028,CUST00939,20-01-2026,purchase,Social,Mobile,P002,Smart Watch,Electronics,ORD000579,South,20-01-2026,2026-01,2026,Tuesday
+SES000175,CUST00521,20-01-2026,purchase,Email,Desktop,P003,Bluetooth Speaker,Electronics,ORD000308,South,20-01-2026,2026-01,2026,Tuesday
+SES002953,CUST01278,21-01-2026,purchase,Referral,Mobile,P009,Water Bottle,Home & Kitchen,ORD000022,North,21-01-2026,2026-01,2026,Wednesday
+SES001513,CUST01169,21-01-2026,purchase,Social,Mobile,P004,Laptop Backpack,Fashion,ORD000629,West,21-01-2026,2026-01,2026,Wednesday
+SES000654,CUST00763,21-01-2026,purchase,Social,Mobile,P008,Mixer Grinder,Home & Kitchen,ORD000140,East,21-01-2026,2026-01,2026,Wednesday
+SES001935,CUST00003,21-01-2026,purchase,Search,Mobile,P001,Wireless Earbuds,Electronics,ORD000559,West,21-01-2026,2026-01,2026,Wednesday
+SES001108,CUST00199,22-01-2026,purchase,Email,Desktop,P011,Programming Book,Books & Stationery,ORD000873,North,22-01-2026,2026-01,2026,Thursday
+SES001721,CUST00141,22-01-2026,purchase,Referral,Mobile,P004,Laptop Backpack,Fashion,ORD000069,North,22-01-2026,2026-01,2026,Thursday
+SES000808,CUST01761,22-01-2026,purchase,Search,Desktop,P009,Water Bottle,Home & Kitchen,ORD001083,East,22-01-2026,2026-01,2026,Thursday
+SES001049,CUST01281,22-01-2026,purchase,Email,Mobile,P018,Phone Charger,Electronics,ORD000847,South,22-01-2026,2026-01,2026,Thursday
+SES002227,CUST00899,22-01-2026,purchase,Search,Mobile,P019,Sunglasses,Fashion,ORD000880,Central,22-01-2026,2026-01,2026,Thursday
+SES001150,CUST00095,23-01-2026,purchase,Search,Mobile,P011,Programming Book,Books & Stationery,ORD000048,East,23-01-2026,2026-01,2026,Friday
+SES001844,CUST00172,23-01-2026,purchase,Referral,Desktop,P011,Programming Book,Books & Stationery,ORD000426,East,23-01-2026,2026-01,2026,Friday
+SES000953,CUST00389,23-01-2026,purchase,Social,Desktop,P007,Coffee Maker,Home & Kitchen,ORD000556,South,23-01-2026,2026-01,2026,Friday
+SES000821,CUST01064,24-01-2026,purchase,Social,Tablet,P013,Study Table,Furniture,ORD000690,East,24-01-2026,2026-01,2026,Saturday
+SES000268,CUST00759,24-01-2026,purchase,Search,Desktop,P012,Office Chair,Furniture,ORD000225,South,24-01-2026,2026-01,2026,Saturday
+SES000433,CUST00675,24-01-2026,purchase,Social,Mobile,P012,Office Chair,Furniture,ORD000752,East,24-01-2026,2026-01,2026,Saturday
+SES000607,CUST00004,25-01-2026,purchase,Referral,Mobile,P009,Water Bottle,Home & Kitchen,ORD000318,West,25-01-2026,2026-01,2026,Sunday
+SES003167,CUST01358,25-01-2026,purchase,Search,Mobile,P015,Dumbbell Set,Sports & Fitness,ORD001354,Central,25-01-2026,2026-01,2026,Sunday
+SES001620,CUST00342,25-01-2026,purchase,Direct,Mobile,P001,Wireless Earbuds,Electronics,ORD000165,South,25-01-2026,2026-01,2026,Sunday
+SES001854,CUST00025,25-01-2026,purchase,Referral,Mobile,P005,Running Shoes,Fashion,ORD000144,Central,25-01-2026,2026-01,2026,Sunday
+SES001579,CUST00906,26-01-2026,purchase,Search,Desktop,P009,Water Bottle,Home & Kitchen,ORD000354,Central,26-01-2026,2026-01,2026,Monday
+SES002057,CUST00287,26-01-2026,purchase,Social,Mobile,P005,Running Shoes,Fashion,ORD001126,East,26-01-2026,2026-01,2026,Monday
+SES002378,CUST01123,26-01-2026,purchase,Referral,Desktop,P013,Study Table,Furniture,ORD000620,West,26-01-2026,2026-01,2026,Monday
+SES003419,CUST01247,26-01-2026,purchase,Referral,Mobile,P009,Water Bottle,Home & Kitchen,ORD001195,South,26-01-2026,2026-01,2026,Monday
+SES001650,CUST01313,26-01-2026,add_to_cart,Social,Mobile,P012,Office Chair,Furniture,ORD000008,East,26-01-2026,2026-01,2026,Monday
+SES001296,CUST00378,26-01-2026,purchase,Social,Desktop,P012,Office Chair,Furniture,ORD000879,East,26-01-2026,2026-01,2026,Monday
+SES002403,CUST01442,26-01-2026,purchase,Direct,Mobile,P020,Kitchen Storage Box,Home & Kitchen,ORD000239,East,26-01-2026,2026-01,2026,Monday
+SES001480,CUST01321,27-01-2026,purchase,Direct,Mobile,P007,Coffee Maker,Home & Kitchen,ORD000096,South,27-01-2026,2026-01,2026,Tuesday
+SES001372,CUST01009,27-01-2026,purchase,Referral,Mobile,P017,Hair Dryer,Beauty & Personal Care,ORD000088,Central,27-01-2026,2026-01,2026,Tuesday
+SES003191,CUST00879,27-01-2026,purchase,Search,Tablet,P019,Sunglasses,Fashion,ORD000803,East,27-01-2026,2026-01,2026,Tuesday
+SES002054,CUST01025,27-01-2026,purchase,Social,Tablet,P001,Wireless Earbuds,Electronics,ORD001240,North,27-01-2026,2026-01,2026,Tuesday
+SES002921,CUST00217,27-01-2026,purchase,Referral,Mobile,P015,Dumbbell Set,Sports & Fitness,ORD001191,South,27-01-2026,2026-01,2026,Tuesday
+SES002310,CUST00460,28-01-2026,add_to_cart,Search,Tablet,P008,Mixer Grinder,Home & Kitchen,ORD001121,West,28-01-2026,2026-01,2026,Wednesday
+SES001085,CUST00116,29-01-2026,purchase,Social,Desktop,P016,Face Wash,Beauty & Personal Care,ORD000947,Central,29-01-2026,2026-01,2026,Thursday
+SES002146,CUST01132,30-01-2026,purchase,Search,Mobile,P007,Coffee Maker,Home & Kitchen,ORD001380,West,30-01-2026,2026-01,2026,Friday
+SES001531,CUST00087,30-01-2026,purchase,Direct,Mobile,P005,Running Shoes,Fashion,ORD000216,West,30-01-2026,2026-01,2026,Friday
+SES001206,CUST00736,30-01-2026,purchase,Direct,Mobile,P007,Coffee Maker,Home & Kitchen,ORD000303,South,30-01-2026,2026-01,2026,Friday
+SES001199,CUST00420,30-01-2026,purchase,Email,Mobile,P014,Yoga Mat,Sports & Fitness,ORD001059,Central,30-01-2026,2026-01,2026,Friday
+SES002139,CUST01647,31-01-2026,add_to_cart,Referral,Desktop,P001,Wireless Earbuds,Electronics,ORD000075,North,31-01-2026,2026-01,2026,Saturday
+SES001497,CUST00092,31-01-2026,purchase,Social,Desktop,P017,Hair Dryer,Beauty & Personal Care,ORD000699,East,31-01-2026,2026-01,2026,Saturday
+SES000371,CUST01278,31-01-2026,purchase,Search,Mobile,P004,Laptop Backpack,Fashion,ORD000057,South,31-01-2026,2026-01,2026,Saturday
+SES003416,CUST00779,31-01-2026,purchase,Search,Mobile,P009,Water Bottle,Home & Kitchen,ORD000098,South,31-01-2026,2026-01,2026,Saturday
+SES001575,CUST00298,31-01-2026,purchase,Direct,Desktop,P013,Study Table,Furniture,ORD001390,North,31-01-2026,2026-01,2026,Saturday
+SES000347,CUST00042,01-02-2026,purchase,Search,Desktop,P018,Phone Charger,Electronics,ORD000330,Central,01-02-2026,2026-02,2026,Sunday
+SES000601,CUST01640,01-02-2026,purchase,Direct,Desktop,P014,Yoga Mat,Sports & Fitness,ORD000070,South,01-02-2026,2026-02,2026,Sunday
+SES002981,CUST01764,01-02-2026,add_to_cart,Direct,Desktop,P008,Mixer Grinder,Home & Kitchen,ORD001327,Central,01-02-2026,2026-02,2026,Sunday
+SES000247,CUST00312,01-02-2026,add_to_cart,Referral,Desktop,P005,Running Shoes,Fashion,ORD001026,North,01-02-2026,2026-02,2026,Sunday
+SES003326,CUST01455,01-02-2026,add_to_cart,Search,Mobile,P002,Smart Watch,Electronics,ORD000115,Central,01-02-2026,2026-02,2026,Sunday
+SES002829,CUST01735,02-02-2026,add_to_cart,Search,Mobile,P011,Programming Book,Books & Stationery,ORD000591,North,02-02-2026,2026-02,2026,Monday
+SES003003,CUST01521,03-02-2026,add_to_cart,Email,Desktop,P003,Bluetooth Speaker,Electronics,ORD001300,East,03-02-2026,2026-02,2026,Tuesday
+SES000585,CUST00420,03-02-2026,add_to_cart,Social,Desktop,P007,Coffee Maker,Home & Kitchen,ORD000106,North,03-02-2026,2026-02,2026,Tuesday
+SES001082,CUST01075,03-02-2026,purchase,Email,Desktop,P003,Bluetooth Speaker,Electronics,ORD000234,East,03-02-2026,2026-02,2026,Tuesday
+SES001006,CUST01691,03-02-2026,purchase,Email,Mobile,P006,Cotton T-Shirt,Fashion,ORD000713,Central,03-02-2026,2026-02,2026,Tuesday
+SES003129,CUST00198,03-02-2026,purchase,Social,Desktop,P012,Office Chair,Furniture,ORD001174,West,03-02-2026,2026-02,2026,Tuesday
+SES001921,CUST01172,03-02-2026,purchase,Direct,Mobile,P001,Wireless Earbuds,Electronics,ORD000397,East,03-02-2026,2026-02,2026,Tuesday
+SES000691,CUST01679,03-02-2026,purchase,Search,Mobile,P002,Smart Watch,Electronics,ORD000459,Central,03-02-2026,2026-02,2026,Tuesday
+SES003161,CUST01348,03-02-2026,purchase,Search,Desktop,P005,Running Shoes,Fashion,ORD001265,Central,03-02-2026,2026-02,2026,Tuesday
+SES000914,CUST01171,04-02-2026,Checkout,Search,Mobile,P002,Smart Watch,Electronics,ORD000696,North,04-02-2026,2026-02,2026,Wednesday
+SES001236,CUST00090,05-02-2026,Checkout,Social,Tablet,P004,Laptop Backpack,Fashion,ORD000954,Central,05-02-2026,2026-02,2026,Thursday
+SES002866,CUST01637,05-02-2026,Checkout,Search,Mobile,P015,Dumbbell Set,Sports & Fitness,ORD000102,East,05-02-2026,2026-02,2026,Thursday
+SES003281,CUST01610,05-02-2026,Checkout,Search,Mobile,P020,Kitchen Storage Box,Home & Kitchen,ORD001381,West,05-02-2026,2026-02,2026,Thursday
+SES000549,CUST00589,05-02-2026,Checkout,Search,Desktop,P001,Wireless Earbuds,Electronics,ORD001261,Central,05-02-2026,2026-02,2026,Thursday
+SES001627,CUST01171,05-02-2026,Checkout,Email,Desktop,P017,Hair Dryer,Beauty & Personal Care,ORD001009,Central,05-02-2026,2026-02,2026,Thursday
+SES000284,CUST01245,06-02-2026,purchase,Social,Desktop,P020,Kitchen Storage Box,Home & Kitchen,ORD001318,South,06-02-2026,2026-02,2026,Friday
+SES003584,CUST00759,06-02-2026,purchase,Search,Mobile,P011,Programming Book,Books & Stationery,ORD000531,East,06-02-2026,2026-02,2026,Friday
+SES001512,CUST01368,06-02-2026,purchase,Social,Mobile,P008,Mixer Grinder,Home & Kitchen,ORD000586,South,06-02-2026,2026-02,2026,Friday
+SES002612,CUST00972,06-02-2026,purchase,Referral,Tablet,P015,Dumbbell Set,Sports & Fitness,ORD001142,North,06-02-2026,2026-02,2026,Friday
+SES003304,CUST01151,06-02-2026,purchase,Search,Tablet,P019,Sunglasses,Fashion,ORD000993,South,06-02-2026,2026-02,2026,Friday
+SES001478,CUST00383,07-02-2026,purchase,Referral,Desktop,P014,Yoga Mat,Sports & Fitness,ORD000981,East,07-02-2026,2026-02,2026,Saturday
+SES000260,CUST00814,07-02-2026,purchase,Direct,Mobile,P018,Phone Charger,Electronics,ORD000538,West,07-02-2026,2026-02,2026,Saturday
+SES002435,CUST00363,08-02-2026,Checkout,Referral,Mobile,P002,Smart Watch,Electronics,ORD000706,South,08-02-2026,2026-02,2026,Sunday
+SES002712,CUST00527,08-02-2026,purchase,Search,Tablet,P002,Smart Watch,Electronics,ORD000883,North,08-02-2026,2026-02,2026,Sunday
+SES000079,CUST00225,08-02-2026,purchase,Direct,Mobile,P017,Hair Dryer,Beauty & Personal Care,ORD000943,North,08-02-2026,2026-02,2026,Sunday
+SES002183,CUST00039,08-02-2026,purchase,Referral,Mobile,P016,Face Wash,Beauty & Personal Care,ORD000509,West,08-02-2026,2026-02,2026,Sunday
+SES003071,CUST00761,09-02-2026,purchase,Email,Desktop,P012,Office Chair,Furniture,ORD000721,Central,09-02-2026,2026-02,2026,Monday
+SES002482,CUST00302,09-02-2026,Checkout,Search,Mobile,P006,Cotton T-Shirt,Fashion,ORD000065,Central,09-02-2026,2026-02,2026,Monday
+SES000015,CUST00588,09-02-2026,purchase,Direct,Mobile,P004,Laptop Backpack,Fashion,ORD000340,South,09-02-2026,2026-02,2026,Monday
+SES001195,CUST01292,09-02-2026,purchase,Social,Mobile,P009,Water Bottle,Home & Kitchen,ORD000458,East,09-02-2026,2026-02,2026,Monday
+SES002401,CUST00817,09-02-2026,purchase,Social,Tablet,P011,Programming Book,Books & Stationery,ORD000435,North,09-02-2026,2026-02,2026,Monday
+SES002203,CUST01333,10-02-2026,purchase,Email,Tablet,P005,Running Shoes,Fashion,ORD000117,East,10-02-2026,2026-02,2026,Tuesday
+SES001780,CUST00266,10-02-2026,purchase,Search,Mobile,P014,Yoga Mat,Sports & Fitness,ORD000551,South,10-02-2026,2026-02,2026,Tuesday
+SES001613,CUST00821,10-02-2026,purchase,Direct,Mobile,P008,Mixer Grinder,Home & Kitchen,ORD000352,East,10-02-2026,2026-02,2026,Tuesday
+SES001786,CUST00994,10-02-2026,Checkout,Social,Mobile,P010,Notebook Set,Books & Stationery,ORD000958,West,10-02-2026,2026-02,2026,Tuesday
+SES000842,CUST01266,11-02-2026,purchase,Email,Mobile,P020,Kitchen Storage Box,Home & Kitchen,ORD000772,North,11-02-2026,2026-02,2026,Wednesday
+SES001689,CUST00727,11-02-2026,purchase,Social,Mobile,P020,Kitchen Storage Box,Home & Kitchen,ORD000617,North,11-02-2026,2026-02,2026,Wednesday
+SES003566,CUST01263,11-02-2026,purchase,Search,Desktop,P019,Sunglasses,Fashion,ORD000231,East,11-02-2026,2026-02,2026,Wednesday
+SES000061,CUST01010,12-02-2026,purchase,Search,Mobile,P018,Phone Charger,Electronics,ORD001250,South,12-02-2026,2026-02,2026,Thursday
+SES000756,CUST01083,12-02-2026,purchase,Social,Mobile,P010,Notebook Set,Books & Stationery,ORD001177,South,12-02-2026,2026-02,2026,Thursday
+SES000482,CUST01531,12-02-2026,purchase,Email,Desktop,P003,Bluetooth Speaker,Electronics,ORD000846,South,12-02-2026,2026-02,2026,Thursday
+SES002070,CUST01265,12-02-2026,purchase,Search,Desktop,P013,Study Table,Furniture,ORD001388,Central,12-02-2026,2026-02,2026,Thursday
+SES000056,CUST00967,13-02-2026,purchase,Search,Mobile,P015,Dumbbell Set,Sports & Fitness,ORD000158,Central,13-02-2026,2026-02,2026,Friday
+SES002984,CUST01556,13-02-2026,purchase,Search,Mobile,P012,Office Chair,Furniture,ORD000281,Central,13-02-2026,2026-02,2026,Friday
+SES001736,CUST01793,13-02-2026,Checkout,Social,Mobile,P008,Mixer Grinder,Home & Kitchen,ORD000100,North,13-02-2026,2026-02,2026,Friday
+SES000651,CUST00017,13-02-2026,Checkout,Referral,Mobile,P010,Notebook Set,Books & Stationery,ORD000744,East,13-02-2026,2026-02,2026,Friday
+SES001047,CUST00942,13-02-2026,Checkout,Social,Desktop,P020,Kitchen Storage Box,Home & Kitchen,ORD001310,Central,13-02-2026,2026-02,2026,Friday
+SES002807,CUST01616,14-02-2026,Checkout,Search,Mobile,P020,Kitchen Storage Box,Home & Kitchen,ORD000443,South,14-02-2026,2026-02,2026,Saturday
+SES001291,CUST01588,15-02-2026,Checkout,Direct,Desktop,P010,Notebook Set,Books & Stationery,ORD001358,East,15-02-2026,2026-02,2026,Sunday
+SES002221,CUST00604,15-02-2026,Checkout,Direct,Tablet,P013,Study Table,Furniture,ORD000089,North,15-02-2026,2026-02,2026,Sunday
+SES000019,CUST00592,16-02-2026,purchase,Email,Mobile,P016,Face Wash,Beauty & Personal Care,ORD000933,East,16-02-2026,2026-02,2026,Monday
+SES002723,CUST00012,17-02-2026,purchase,Email,Mobile,P014,Yoga Mat,Sports & Fitness,ORD000441,Central,17-02-2026,2026-02,2026,Tuesday
+SES001196,CUST01093,18-02-2026,purchase,Search,Tablet,P013,Study Table,Furniture,ORD001246,West,18-02-2026,2026-02,2026,Wednesday
+SES001633,CUST01298,18-02-2026,purchase,Social,Mobile,P007,Coffee Maker,Home & Kitchen,ORD000533,Central,18-02-2026,2026-02,2026,Wednesday
+SES002088,CUST01474,18-02-2026,purchase,Social,Mobile,P010,Notebook Set,Books & Stationery,ORD001315,West,18-02-2026,2026-02,2026,Wednesday
+SES003024,CUST01253,18-02-2026,purchase,Social,Desktop,P012,Office Chair,Furniture,ORD001117,Central,18-02-2026,2026-02,2026,Wednesday
+SES002031,CUST01194,18-02-2026,purchase,Social,Desktop,P019,Sunglasses,Fashion,ORD000710,North,18-02-2026,2026-02,2026,Wednesday
+SES002349,CUST00892,18-02-2026,purchase,Referral,Desktop,P015,Dumbbell Set,Sports & Fitness,ORD001209,South,18-02-2026,2026-02,2026,Wednesday
+SES001758,CUST00564,19-02-2026,purchase,Social,Mobile,P012,Office Chair,Furniture,ORD000592,West,19-02-2026,2026-02,2026,Thursday
+SES003325,CUST01078,19-02-2026,purchase,Direct,Tablet,P020,Kitchen Storage Box,Home & Kitchen,ORD000229,Central,19-02-2026,2026-02,2026,Thursday
+SES001987,CUST00278,19-02-2026,purchase,Direct,Mobile,P010,Notebook Set,Books & Stationery,ORD000768,East,19-02-2026,2026-02,2026,Thursday
+SES000264,CUST00131,19-02-2026,purchase,Search,Mobile,P020,Kitchen Storage Box,Home & Kitchen,ORD000422,Central,19-02-2026,2026-02,2026,Thursday
+SES000173,CUST01731,19-02-2026,Checkout,Email,Tablet,P001,Wireless Earbuds,Electronics,ORD001129,North,19-02-2026,2026-02,2026,Thursday
+SES002144,CUST00391,20-02-2026,purchase,Email,Desktop,P001,Wireless Earbuds,Electronics,ORD000472,North,20-02-2026,2026-02,2026,Friday
+SES001140,CUST01709,20-02-2026,purchase,Search,Mobile,P001,Wireless Earbuds,Electronics,ORD000355,South,20-02-2026,2026-02,2026,Friday
+SES000717,CUST00131,20-02-2026,purchase,Search,Mobile,P018,Phone Charger,Electronics,ORD000501,West,20-02-2026,2026-02,2026,Friday
+SES000196,CUST01313,20-02-2026,purchase,Referral,Desktop,P020,Kitchen Storage Box,Home & Kitchen,ORD000393,Central,20-02-2026,2026-02,2026,Friday
+SES001025,CUST00947,21-02-2026,purchase,Direct,Desktop,P008,Mixer Grinder,Home & Kitchen,ORD000805,South,21-02-2026,2026-02,2026,Saturday
+SES002132,CUST00007,21-02-2026,Checkout,Direct,Mobile,P002,Smart Watch,Electronics,ORD000982,West,21-02-2026,2026-02,2026,Saturday
+SES000044,CUST00867,21-02-2026,purchase,Social,Mobile,P012,Office Chair,Furniture,ORD001304,South,21-02-2026,2026-02,2026,Saturday
+SES003569,CUST00520,21-02-2026,purchase,Direct,Mobile,P015,Dumbbell Set,Sports & Fitness,ORD000868,Central,21-02-2026,2026-02,2026,Saturday
+SES002855,CUST00079,21-02-2026,Checkout,Search,Mobile,P018,Phone Charger,Electronics,ORD000804,Central,21-02-2026,2026-02,2026,Saturday
+SES000769,CUST00196,22-02-2026,purchase,Direct,Desktop,P017,Hair Dryer,Beauty & Personal Care,ORD000023,East,22-02-2026,2026-02,2026,Sunday
+SES003339,CUST00092,22-02-2026,Checkout,Social,Mobile,P016,Face Wash,Beauty & Personal Care,ORD000936,South,22-02-2026,2026-02,2026,Sunday
+SES003020,CUST00676,22-02-2026,purchase,Search,Tablet,P017,Hair Dryer,Beauty & Personal Care,ORD000378,Central,22-02-2026,2026-02,2026,Sunday
+SES002618,CUST01487,22-02-2026,purchase,Direct,Mobile,P004,Laptop Backpack,Fashion,ORD000932,North,22-02-2026,2026-02,2026,Sunday
+SES002631,CUST01275,23-02-2026,purchase,Direct,Mobile,P004,Laptop Backpack,Fashion,ORD001161,South,23-02-2026,2026-02,2026,Monday
+SES003520,CUST00445,23-02-2026,purchase,Direct,Desktop,P005,Running Shoes,Fashion,ORD001389,Central,23-02-2026,2026-02,2026,Monday
+SES000755,CUST00704,23-02-2026,purchase,Email,Mobile,P009,Water Bottle,Home & Kitchen,ORD001251,North,23-02-2026,2026-02,2026,Monday
+SES002315,CUST01055,24-02-2026,purchase,Search,Mobile,P010,Notebook Set,Books & Stationery,ORD000722,East,24-02-2026,2026-02,2026,Tuesday
+SES001937,CUST01329,24-02-2026,purchase,Search,Mobile,P018,Phone Charger,Electronics,ORD000962,North,24-02-2026,2026-02,2026,Tuesday
+SES002249,CUST01705,25-02-2026,purchase,Search,Desktop,P009,Water Bottle,Home & Kitchen,ORD000704,East,25-02-2026,2026-02,2026,Wednesday
+SES003309,CUST01025,25-02-2026,purchase,Search,Desktop,P001,Wireless Earbuds,Electronics,ORD000110,South,25-02-2026,2026-02,2026,Wednesday
+SES000975,CUST01206,25-02-2026,purchase,Email,Mobile,P003,Bluetooth Speaker,Electronics,ORD000142,West,25-02-2026,2026-02,2026,Wednesday
+SES001587,CUST01667,25-02-2026,purchase,Email,Mobile,P003,Bluetooth Speaker,Electronics,ORD001029,Central,25-02-2026,2026-02,2026,Wednesday
+SES002021,CUST00093,26-02-2026,purchase,Social,Desktop,P015,Dumbbell Set,Sports & Fitness,ORD001035,East,26-02-2026,2026-02,2026,Thursday
+SES001808,CUST00312,26-02-2026,purchase,Direct,Mobile,P020,Kitchen Storage Box,Home & Kitchen,ORD001387,North,26-02-2026,2026-02,2026,Thursday
+SES002270,CUST01316,26-02-2026,purchase,Direct,Desktop,P015,Dumbbell Set,Sports & Fitness,ORD000370,South,26-02-2026,2026-02,2026,Thursday
+SES000606,CUST00974,26-02-2026,purchase,Email,Mobile,P020,Kitchen Storage Box,Home & Kitchen,ORD001307,Central,26-02-2026,2026-02,2026,Thursday
+SES001386,CUST01628,27-02-2026,purchase,Direct,Mobile,P020,Kitchen Storage Box,Home & Kitchen,ORD000836,South,27-02-2026,2026-02,2026,Friday
+SES001504,CUST00608,27-02-2026,purchase,Search,Tablet,P003,Bluetooth Speaker,Electronics,ORD001057,East,27-02-2026,2026-02,2026,Friday
+SES000078,CUST00707,27-02-2026,purchase,Referral,Mobile,P004,Laptop Backpack,Fashion,ORD000277,South,27-02-2026,2026-02,2026,Friday
+SES001518,CUST00828,27-02-2026,purchase,Social,Desktop,P018,Phone Charger,Electronics,ORD000077,South,27-02-2026,2026-02,2026,Friday
+SES001120,CUST01786,27-02-2026,purchase,Search,Desktop,P005,Running Shoes,Fashion,ORD000394,South,27-02-2026,2026-02,2026,Friday
+SES002588,CUST00985,27-02-2026,purchase,Direct,Mobile,P006,Cotton T-Shirt,Fashion,ORD000864,South,27-02-2026,2026-02,2026,Friday
+SES000310,CUST00948,28-02-2026,purchase,Social,Desktop,P007,Coffee Maker,Home & Kitchen,ORD000795,South,28-02-2026,2026-02,2026,Saturday
+SES001794,CUST00988,28-02-2026,purchase,Direct,Desktop,P004,Laptop Backpack,Fashion,ORD000647,East,28-02-2026,2026-02,2026,Saturday
+SES002918,CUST01561,01-03-2026,purchase,Search,Mobile,P007,Coffee Maker,Home & Kitchen,ORD000455,Central,01-03-2026,2026-03,2026,Sunday
+SES003292,CUST00721,01-03-2026,purchase,Direct,Mobile,P004,Laptop Backpack,Fashion,ORD000905,West,01-03-2026,2026-03,2026,Sunday
+SES001554,CUST01689,01-03-2026,purchase,Referral,Tablet,P012,Office Chair,Furniture,ORD000567,East,01-03-2026,2026-03,2026,Sunday
+SES000666,CUST01526,01-03-2026,purchase,Email,Desktop,P007,Coffee Maker,Home & Kitchen,ORD001102,West,01-03-2026,2026-03,2026,Sunday
+SES001335,CUST00406,01-03-2026,purchase,Direct,Desktop,P007,Coffee Maker,Home & Kitchen,ORD000390,South,01-03-2026,2026-03,2026,Sunday
+SES000342,CUST01344,01-03-2026,purchase,Social,Desktop,P009,Water Bottle,Home & Kitchen,ORD000908,East,01-03-2026,2026-03,2026,Sunday
+SES002819,CUST01190,02-03-2026,purchase,Direct,Desktop,P012,Office Chair,Furniture,ORD000952,Central,02-03-2026,2026-03,2026,Monday
+SES003210,CUST00936,02-03-2026,purchase,Search,Desktop,P012,Office Chair,Furniture,ORD000113,North,02-03-2026,2026-03,2026,Monday
+SES002679,CUST00944,02-03-2026,purchase,Direct,Mobile,P018,Phone Charger,Electronics,ORD001330,East,02-03-2026,2026-03,2026,Monday
+SES002400,CUST00673,02-03-2026,purchase,Referral,Desktop,P001,Wireless Earbuds,Electronics,ORD000938,East,02-03-2026,2026-03,2026,Monday
+SES003314,CUST01387,02-03-2026,purchase,Referral,Mobile,P001,Wireless Earbuds,Electronics,ORD000366,Central,02-03-2026,2026-03,2026,Monday
+SES000858,CUST01084,03-03-2026,purchase,Social,Desktop,P010,Notebook Set,Books & Stationery,ORD000862,West,03-03-2026,2026-03,2026,Tuesday
+SES000094,CUST00285,03-03-2026,purchase,Social,Mobile,P003,Bluetooth Speaker,Electronics,ORD000790,South,03-03-2026,2026-03,2026,Tuesday
+SES000576,CUST01763,03-03-2026,purchase,Search,Mobile,P015,Dumbbell Set,Sports & Fitness,ORD000399,West,03-03-2026,2026-03,2026,Tuesday
+SES000593,CUST00143,03-03-2026,purchase,Email,Mobile,P005,Running Shoes,Fashion,ORD001292,East,03-03-2026,2026-03,2026,Tuesday
+SES000571,CUST01473,03-03-2026,purchase,Referral,Mobile,P002,Smart Watch,Electronics,ORD001119,North,03-03-2026,2026-03,2026,Tuesday
+SES003016,CUST01749,03-03-2026,purchase,Referral,Desktop,P012,Office Chair,Furniture,ORD001041,North,03-03-2026,2026-03,2026,Tuesday
+SES002326,CUST01464,04-03-2026,purchase,Search,Mobile,P005,Running Shoes,Fashion,ORD000835,East,04-03-2026,2026-03,2026,Wednesday
+SES002803,CUST01793,04-03-2026,purchase,Direct,Mobile,P003,Bluetooth Speaker,Electronics,ORD000172,East,04-03-2026,2026-03,2026,Wednesday
+SES002926,CUST00731,04-03-2026,purchase,Social,Desktop,P007,Coffee Maker,Home & Kitchen,ORD000774,Central,04-03-2026,2026-03,2026,Wednesday
+SES000186,CUST01250,05-03-2026,purchase,Direct,Desktop,P008,Mixer Grinder,Home & Kitchen,ORD000288,East,05-03-2026,2026-03,2026,Thursday
+SES001845,CUST01388,05-03-2026,purchase,Referral,Desktop,P013,Study Table,Furniture,ORD000294,East,05-03-2026,2026-03,2026,Thursday
+SES001495,CUST01654,05-03-2026,purchase,Referral,Mobile,P004,Laptop Backpack,Fashion,ORD000164,South,05-03-2026,2026-03,2026,Thursday
+SES000472,CUST00397,05-03-2026,purchase,Direct,Desktop,P011,Programming Book,Books & Stationery,ORD000815,Central,05-03-2026,2026-03,2026,Thursday
+SES003303,CUST01629,05-03-2026,purchase,Search,Desktop,P005,Running Shoes,Fashion,ORD001133,Central,05-03-2026,2026-03,2026,Thursday
+SES002141,CUST01684,06-03-2026,purchase,Search,Desktop,P019,Sunglasses,Fashion,ORD000937,Central,06-03-2026,2026-03,2026,Friday
+SES000450,CUST00397,06-03-2026,purchase,Referral,Mobile,P002,Smart Watch,Electronics,ORD001276,West,06-03-2026,2026-03,2026,Friday
+SES001900,CUST01206,06-03-2026,purchase,Direct,Desktop,P019,Sunglasses,Fashion,ORD000107,South,06-03-2026,2026-03,2026,Friday
+SES001114,CUST01280,07-03-2026,purchase,Social,Mobile,P010,Notebook Set,Books & Stationery,ORD000285,East,07-03-2026,2026-03,2026,Saturday
+SES002655,CUST01183,07-03-2026,purchase,Search,Tablet,P008,Mixer Grinder,Home & Kitchen,ORD000031,North,07-03-2026,2026-03,2026,Saturday
+SES002880,CUST00194,07-03-2026,purchase,Search,Desktop,P010,Notebook Set,Books & Stationery,ORD000197,East,07-03-2026,2026-03,2026,Saturday
+SES001046,CUST01548,07-03-2026,purchase,Social,Desktop,P011,Programming Book,Books & Stationery,ORD001003,West,07-03-2026,2026-03,2026,Saturday
+SES000039,CUST01288,07-03-2026,purchase,Direct,Desktop,P002,Smart Watch,Electronics,ORD000238,Central,07-03-2026,2026-03,2026,Saturday
+SES002267,CUST00043,07-03-2026,purchase,Search,Mobile,P012,Office Chair,Furniture,ORD001329,West,07-03-2026,2026-03,2026,Saturday
+SES002426,CUST01318,07-03-2026,purchase,Search,Mobile,P018,Phone Charger,Electronics,ORD001202,East,07-03-2026,2026-03,2026,Saturday
+SES003343,CUST00261,08-03-2026,purchase,Referral,Desktop,P008,Mixer Grinder,Home & Kitchen,ORD001118,North,08-03-2026,2026-03,2026,Sunday
+SES001254,CUST01563,08-03-2026,purchase,Email,Desktop,P015,Dumbbell Set,Sports & Fitness,ORD000860,Central,08-03-2026,2026-03,2026,Sunday
+SES001619,CUST01586,08-03-2026,purchase,Search,Tablet,P018,Phone Charger,Electronics,ORD000872,North,08-03-2026,2026-03,2026,Sunday
+SES000688,CUST00102,08-03-2026,purchase,Search,Desktop,P016,Face Wash,Beauty & Personal Care,ORD001302,North,08-03-2026,2026-03,2026,Sunday
+SES001227,CUST01720,08-03-2026,purchase,Referral,Mobile,P015,Dumbbell Set,Sports & Fitness,ORD000036,South,08-03-2026,2026-03,2026,Sunday
+SES000544,CUST00387,08-03-2026,purchase,Email,Desktop,P007,Coffee Maker,Home & Kitchen,ORD000874,South,08-03-2026,2026-03,2026,Sunday
+SES002233,CUST00605,09-03-2026,purchase,Direct,Mobile,P002,Smart Watch,Electronics,ORD001295,West,09-03-2026,2026-03,2026,Monday
+SES003499,CUST00208,09-03-2026,purchase,Search,Desktop,P004,Laptop Backpack,Fashion,ORD000859,West,09-03-2026,2026-03,2026,Monday
+SES000867,CUST01640,09-03-2026,purchase,Email,Mobile,P016,Face Wash,Beauty & Personal Care,ORD000418,East,09-03-2026,2026-03,2026,Monday
+SES000417,CUST00687,09-03-2026,purchase,Referral,Mobile,P019,Sunglasses,Fashion,ORD000789,Central,09-03-2026,2026-03,2026,Monday
+SES002600,CUST01036,09-03-2026,purchase,Direct,Desktop,P005,Running Shoes,Fashion,ORD001183,Central,09-03-2026,2026-03,2026,Monday
+SES001073,CUST01317,10-03-2026,purchase,Direct,Mobile,P003,Bluetooth Speaker,Electronics,ORD001167,East,10-03-2026,2026-03,2026,Tuesday
+SES000514,CUST00758,10-03-2026,purchase,Search,Mobile,P006,Cotton T-Shirt,Fashion,ORD000389,North,10-03-2026,2026-03,2026,Tuesday
+SES000082,CUST01342,10-03-2026,purchase,Email,Mobile,P001,Wireless Earbuds,Electronics,ORD000180,East,10-03-2026,2026-03,2026,Tuesday
+SES000443,CUST01628,10-03-2026,purchase,Direct,Desktop,P013,Study Table,Furniture,ORD000236,South,10-03-2026,2026-03,2026,Tuesday
+SES003337,CUST00037,10-03-2026,purchase,Search,Mobile,P010,Notebook Set,Books & Stationery,ORD000673,South,10-03-2026,2026-03,2026,Tuesday
+SES000177,CUST00971,11-03-2026,purchase,Direct,Mobile,P003,Bluetooth Speaker,Electronics,ORD001264,North,11-03-2026,2026-03,2026,Wednesday
+SES003407,CUST00584,11-03-2026,purchase,Social,Mobile,P007,Coffee Maker,Home & Kitchen,ORD000901,Central,11-03-2026,2026-03,2026,Wednesday
+SES003190,CUST01137,11-03-2026,purchase,Search,Desktop,P019,Sunglasses,Fashion,ORD000379,East,11-03-2026,2026-03,2026,Wednesday
+SES000337,CUST01220,11-03-2026,purchase,Search,Mobile,P014,Yoga Mat,Sports & Fitness,ORD000769,West,11-03-2026,2026-03,2026,Wednesday
+SES001537,CUST00244,12-03-2026,purchase,Email,Mobile,P011,Programming Book,Books & Stationery,ORD000126,Central,12-03-2026,2026-03,2026,Thursday
+SES003054,CUST00501,12-03-2026,purchase,Search,Mobile,P020,Kitchen Storage Box,Home & Kitchen,ORD000897,West,12-03-2026,2026-03,2026,Thursday
+SES002321,CUST00936,12-03-2026,purchase,Search,Desktop,P016,Face Wash,Beauty & Personal Care,ORD000940,Central,12-03-2026,2026-03,2026,Thursday
+SES000873,CUST00191,12-03-2026,purchase,Direct,Desktop,P008,Mixer Grinder,Home & Kitchen,ORD000712,East,12-03-2026,2026-03,2026,Thursday
+SES000377,CUST01333,12-03-2026,purchase,Social,Desktop,P010,Notebook Set,Books & Stationery,ORD000867,West,12-03-2026,2026-03,2026,Thursday
+SES002786,CUST01181,12-03-2026,purchase,Search,Desktop,P018,Phone Charger,Electronics,ORD000038,South,12-03-2026,2026-03,2026,Thursday
+SES001754,CUST00493,12-03-2026,purchase,Search,Tablet,P014,Yoga Mat,Sports & Fitness,ORD000520,West,12-03-2026,2026-03,2026,Thursday
+SES001974,CUST00435,13-03-2026,purchase,Direct,Mobile,P005,Running Shoes,Fashion,ORD000177,Central,13-03-2026,2026-03,2026,Friday
+SES001098,CUST01340,14-03-2026,purchase,Email,Mobile,P013,Study Table,Furniture,ORD000674,South,14-03-2026,2026-03,2026,Saturday
+SES001903,CUST00317,14-03-2026,purchase,Email,Desktop,P008,Mixer Grinder,Home & Kitchen,ORD000963,West,14-03-2026,2026-03,2026,Saturday
+SES002005,CUST01330,14-03-2026,purchase,Referral,Desktop,P014,Yoga Mat,Sports & Fitness,ORD001192,East,14-03-2026,2026-03,2026,Saturday
+SES003283,CUST00689,14-03-2026,purchase,Direct,Mobile,P017,Hair Dryer,Beauty & Personal Care,ORD000162,Central,14-03-2026,2026-03,2026,Saturday
+SES001573,CUST00710,15-03-2026,purchase,Direct,Mobile,P001,Wireless Earbuds,Electronics,ORD000581,West,15-03-2026,2026-03,2026,Sunday
+SES002087,CUST00250,15-03-2026,purchase,Search,Mobile,P008,Mixer Grinder,Home & Kitchen,ORD000471,Central,15-03-2026,2026-03,2026,Sunday
+SES000440,CUST00989,15-03-2026,purchase,Email,Desktop,P002,Smart Watch,Electronics,ORD000837,Central,15-03-2026,2026-03,2026,Sunday
+SES002950,CUST01383,15-03-2026,purchase,Social,Tablet,P006,Cotton T-Shirt,Fashion,ORD000312,West,15-03-2026,2026-03,2026,Sunday
+SES002404,CUST00944,16-03-2026,purchase,Email,Mobile,P013,Study Table,Furniture,ORD000255,North,16-03-2026,2026-03,2026,Monday
+SES003323,CUST01109,16-03-2026,purchase,Search,Desktop,P003,Bluetooth Speaker,Electronics,ORD000261,Central,16-03-2026,2026-03,2026,Monday
+SES000509,CUST01751,16-03-2026,purchase,Social,Desktop,P008,Mixer Grinder,Home & Kitchen,ORD000324,South,16-03-2026,2026-03,2026,Monday
+SES000989,CUST01484,16-03-2026,purchase,Direct,Mobile,P019,Sunglasses,Fashion,ORD000079,West,16-03-2026,2026-03,2026,Monday
+SES001413,CUST01328,16-03-2026,purchase,Social,Mobile,P012,Office Chair,Furniture,ORD001245,Central,16-03-2026,2026-03,2026,Monday
+SES003540,CUST00100,17-03-2026,purchase,Social,Desktop,P013,Study Table,Furniture,ORD001087,East,17-03-2026,2026-03,2026,Tuesday
+SES001969,CUST01131,17-03-2026,purchase,Social,Tablet,P019,Sunglasses,Fashion,ORD001149,West,17-03-2026,2026-03,2026,Tuesday
+SES003573,CUST01522,17-03-2026,purchase,Social,Mobile,P017,Hair Dryer,Beauty & Personal Care,ORD000479,North,17-03-2026,2026-03,2026,Tuesday
+SES000523,CUST01063,17-03-2026,purchase,Search,Desktop,P005,Running Shoes,Fashion,ORD001382,West,17-03-2026,2026-03,2026,Tuesday
+SES003327,CUST01044,17-03-2026,purchase,Search,Tablet,P019,Sunglasses,Fashion,ORD001168,West,17-03-2026,2026-03,2026,Tuesday
+SES000542,CUST00086,17-03-2026,purchase,Email,Mobile,P012,Office Chair,Furniture,ORD001221,South,17-03-2026,2026-03,2026,Tuesday
+SES003571,CUST01185,17-03-2026,purchase,Search,Desktop,P015,Dumbbell Set,Sports & Fitness,ORD000518,East,17-03-2026,2026-03,2026,Tuesday
+SES001710,CUST01329,17-03-2026,purchase,Direct,Mobile,P020,Kitchen Storage Box,Home & Kitchen,ORD000184,South,17-03-2026,2026-03,2026,Tuesday
+SES001205,CUST01524,17-03-2026,purchase,Search,Mobile,P018,Phone Charger,Electronics,ORD000004,South,17-03-2026,2026-03,2026,Tuesday
+SES003534,CUST01014,17-03-2026,purchase,Email,Mobile,P015,Dumbbell Set,Sports & Fitness,ORD000896,West,17-03-2026,2026-03,2026,Tuesday
+SES001070,CUST00336,18-03-2026,purchase,Search,Mobile,P018,Phone Charger,Electronics,ORD001342,South,18-03-2026,2026-03,2026,Wednesday
+SES002676,CUST00712,18-03-2026,purchase,Referral,Mobile,P001,Wireless Earbuds,Electronics,ORD000061,East,18-03-2026,2026-03,2026,Wednesday
+SES001676,CUST00721,19-03-2026,purchase,Direct,Mobile,P010,Notebook Set,Books & Stationery,ORD000304,North,19-03-2026,2026-03,2026,Thursday
+SES002968,CUST00313,19-03-2026,purchase,Search,Mobile,P003,Bluetooth Speaker,Electronics,ORD000121,East,19-03-2026,2026-03,2026,Thursday
+SES002611,CUST00061,19-03-2026,purchase,Search,Desktop,P010,Notebook Set,Books & Stationery,ORD000416,West,19-03-2026,2026-03,2026,Thursday
+SES002113,CUST00761,19-03-2026,purchase,Search,Mobile,P007,Coffee Maker,Home & Kitchen,ORD000230,West,19-03-2026,2026-03,2026,Thursday
+SES002351,CUST00793,20-03-2026,purchase,Search,Mobile,P008,Mixer Grinder,Home & Kitchen,ORD000854,North,20-03-2026,2026-03,2026,Friday
+SES001830,CUST00426,21-03-2026,purchase,Referral,Mobile,P012,Office Chair,Furniture,ORD000724,West,21-03-2026,2026-03,2026,Saturday
+SES000187,CUST00969,21-03-2026,purchase,Search,Mobile,P007,Coffee Maker,Home & Kitchen,ORD001165,Central,21-03-2026,2026-03,2026,Saturday
+SES000152,CUST01700,21-03-2026,purchase,Email,Mobile,P019,Sunglasses,Fashion,ORD000792,Central,21-03-2026,2026-03,2026,Saturday
+SES003046,CUST00214,22-03-2026,purchase,Direct,Mobile,P020,Kitchen Storage Box,Home & Kitchen,ORD000923,North,22-03-2026,2026-03,2026,Sunday
+SES002818,CUST00640,22-03-2026,purchase,Search,Desktop,P017,Hair Dryer,Beauty & Personal Care,ORD000136,West,22-03-2026,2026-03,2026,Sunday
+SES000778,CUST00365,22-03-2026,purchase,Search,Mobile,P008,Mixer Grinder,Home & Kitchen,ORD000404,Central,22-03-2026,2026-03,2026,Sunday
+SES002644,CUST00489,22-03-2026,purchase,Search,Mobile,P018,Phone Charger,Electronics,ORD000461,East,22-03-2026,2026-03,2026,Sunday
+SES002274,CUST01713,22-03-2026,purchase,Direct,Mobile,P010,Notebook Set,Books & Stationery,ORD001055,West,22-03-2026,2026-03,2026,Sunday
+SES001637,CUST01168,22-03-2026,purchase,Email,Mobile,P012,Office Chair,Furniture,ORD001366,East,22-03-2026,2026-03,2026,Sunday
+SES002167,CUST00689,23-03-2026,purchase,Direct,Mobile,P012,Office Chair,Furniture,ORD000618,East,23-03-2026,2026-03,2026,Monday
+SES002940,CUST01071,23-03-2026,purchase,Referral,Mobile,P019,Sunglasses,Fashion,ORD000616,Central,23-03-2026,2026-03,2026,Monday
+SES000362,CUST00329,23-03-2026,purchase,Search,Desktop,P019,Sunglasses,Fashion,ORD000638,North,23-03-2026,2026-03,2026,Monday
+SES000780,CUST01623,23-03-2026,purchase,Email,Desktop,P017,Hair Dryer,Beauty & Personal Care,ORD001090,East,23-03-2026,2026-03,2026,Monday
+SES001908,CUST00666,24-03-2026,purchase,Search,Mobile,P016,Face Wash,Beauty & Personal Care,ORD000154,Central,24-03-2026,2026-03,2026,Tuesday
+SES000910,CUST01751,24-03-2026,purchase,Social,Desktop,P003,Bluetooth Speaker,Electronics,ORD000301,Central,24-03-2026,2026-03,2026,Tuesday
+SES001392,CUST00122,24-03-2026,purchase,Direct,Tablet,P017,Hair Dryer,Beauty & Personal Care,ORD000956,South,24-03-2026,2026-03,2026,Tuesday
+SES002358,CUST00216,24-03-2026,purchase,Search,Desktop,P020,Kitchen Storage Box,Home & Kitchen,ORD000630,Central,24-03-2026,2026-03,2026,Tuesday
+SES001432,CUST01108,25-03-2026,purchase,Search,Desktop,P006,Cotton T-Shirt,Fashion,ORD000984,Central,25-03-2026,2026-03,2026,Wednesday
+SES002418,CUST00274,25-03-2026,purchase,Direct,Mobile,P020,Kitchen Storage Box,Home & Kitchen,ORD000907,South,25-03-2026,2026-03,2026,Wednesday
+SES002098,CUST00866,26-03-2026,purchase,Referral,Mobile,P016,Face Wash,Beauty & Personal Care,ORD001062,West,26-03-2026,2026-03,2026,Thursday
+SES001214,CUST00455,26-03-2026,purchase,Direct,Mobile,P010,Notebook Set,Books & Stationery,ORD000353,North,26-03-2026,2026-03,2026,Thursday
+SES001846,CUST01320,26-03-2026,purchase,Direct,Desktop,P015,Dumbbell Set,Sports & Fitness,ORD000095,West,26-03-2026,2026-03,2026,Thursday
+SES000458,CUST01185,26-03-2026,purchase,Referral,Mobile,P014,Yoga Mat,Sports & Fitness,ORD001179,North,26-03-2026,2026-03,2026,Thursday
+SES002092,CUST00805,26-03-2026,purchase,Search,Desktop,P004,Laptop Backpack,Fashion,ORD000502,West,26-03-2026,2026-03,2026,Thursday
+SES002812,CUST01467,27-03-2026,purchase,Email,Mobile,P007,Coffee Maker,Home & Kitchen,ORD000490,East,27-03-2026,2026-03,2026,Friday
+SES002373,CUST00666,27-03-2026,purchase,Search,Mobile,P003,Bluetooth Speaker,Electronics,ORD000319,North,27-03-2026,2026-03,2026,Friday
+SES000763,CUST00962,27-03-2026,purchase,Social,Mobile,P013,Study Table,Furniture,ORD001309,Central,27-03-2026,2026-03,2026,Friday
+SES001993,CUST00334,27-03-2026,purchase,Referral,Mobile,P003,Bluetooth Speaker,Electronics,ORD001163,East,27-03-2026,2026-03,2026,Friday
+SES002128,CUST00223,28-03-2026,purchase,Email,Mobile,P020,Kitchen Storage Box,Home & Kitchen,ORD000969,North,28-03-2026,2026-03,2026,Saturday
+SES001342,CUST01287,28-03-2026,purchase,Email,Mobile,P002,Smart Watch,Electronics,ORD001378,West,28-03-2026,2026-03,2026,Saturday
+SES000998,CUST01133,28-03-2026,purchase,Social,Desktop,P009,Water Bottle,Home & Kitchen,ORD000322,East,28-03-2026,2026-03,2026,Saturday
+SES002884,CUST00959,28-03-2026,purchase,Email,Desktop,P009,Water Bottle,Home & Kitchen,ORD001386,East,28-03-2026,2026-03,2026,Saturday
+SES000002,CUST00664,28-03-2026,purchase,Referral,Desktop,P018,Phone Charger,Electronics,ORD000143,Central,28-03-2026,2026-03,2026,Saturday
+SES002900,CUST01209,29-03-2026,purchase,Search,Mobile,P016,Face Wash,Beauty & Personal Care,ORD001193,South,29-03-2026,2026-03,2026,Sunday
+SES001663,CUST00738,29-03-2026,purchase,Direct,Mobile,P018,Phone Charger,Electronics,ORD000811,West,29-03-2026,2026-03,2026,Sunday
+SES001624,CUST00610,30-03-2026,purchase,Search,Mobile,P004,Laptop Backpack,Fashion,ORD000323,West,30-03-2026,2026-03,2026,Monday
+SES001745,CUST00615,30-03-2026,purchase,Direct,Desktop,P007,Coffee Maker,Home & Kitchen,ORD000492,East,30-03-2026,2026-03,2026,Monday
+SES000453,CUST01453,31-03-2026,purchase,Search,Mobile,P002,Smart Watch,Electronics,ORD000560,North,31-03-2026,2026-03,2026,Tuesday
+SES002738,CUST00022,31-03-2026,purchase,Search,Mobile,P009,Water Bottle,Home & Kitchen,ORD000782,East,31-03-2026,2026-03,2026,Tuesday
+SES002363,CUST00975,31-03-2026,purchase,Search,Mobile,P006,Cotton T-Shirt,Fashion,ORD000665,North,31-03-2026,2026-03,2026,Tuesday
+SES003376,CUST00066,31-03-2026,purchase,Social,Tablet,P012,Office Chair,Furniture,ORD001115,Central,31-03-2026,2026-03,2026,Tuesday
+SES000674,CUST00805,31-03-2026,purchase,Referral,Mobile,P001,Wireless Earbuds,Electronics,ORD000283,East,31-03-2026,2026-03,2026,Tuesday
+SES003060,CUST01641,01-04-2026,purchase,Search,Mobile,P017,Hair Dryer,Beauty & Personal Care,ORD001058,North,01-04-2026,2026-04,2026,Wednesday
+SES002706,CUST00665,01-04-2026,purchase,Social,Mobile,P017,Hair Dryer,Beauty & Personal Care,ORD001320,South,01-04-2026,2026-04,2026,Wednesday
+SES000580,CUST00957,02-04-2026,purchase,Referral,Desktop,P011,Programming Book,Books & Stationery,ORD000436,Central,02-04-2026,2026-04,2026,Thursday
+SES001823,CUST00752,03-04-2026,purchase,Search,Mobile,P012,Office Chair,Furniture,ORD001088,East,03-04-2026,2026-04,2026,Friday
+SES000839,CUST01108,03-04-2026,purchase,Referral,Mobile,P001,Wireless Earbuds,Electronics,ORD000160,East,03-04-2026,2026-04,2026,Friday
+SES000949,CUST01041,03-04-2026,purchase,Email,Desktop,P010,Notebook Set,Books & Stationery,ORD000776,South,03-04-2026,2026-04,2026,Friday
+SES001680,CUST00807,03-04-2026,purchase,Search,Desktop,P005,Running Shoes,Fashion,ORD000582,North,03-04-2026,2026-04,2026,Friday
+SES001130,CUST01491,03-04-2026,purchase,Search,Mobile,P010,Notebook Set,Books & Stationery,ORD000398,East,03-04-2026,2026-04,2026,Friday
+SES001032,CUST00590,03-04-2026,purchase,Direct,Desktop,P001,Wireless Earbuds,Electronics,ORD000193,West,03-04-2026,2026-04,2026,Friday
+SES000028,CUST01521,04-04-2026,purchase,Direct,Mobile,P010,Notebook Set,Books & Stationery,ORD001154,North,04-04-2026,2026-04,2026,Saturday
+SES000325,CUST00725,04-04-2026,purchase,Search,Mobile,P007,Coffee Maker,Home & Kitchen,ORD001287,East,04-04-2026,2026-04,2026,Saturday
+SES002741,CUST01015,04-04-2026,purchase,Search,Desktop,P005,Running Shoes,Fashion,ORD001341,South,04-04-2026,2026-04,2026,Saturday
+SES002664,CUST01705,05-04-2026,purchase,Social,Mobile,P003,Bluetooth Speaker,Electronics,ORD001255,Central,05-04-2026,2026-04,2026,Sunday
+SES000779,CUST00025,05-04-2026,purchase,Search,Desktop,P017,Hair Dryer,Beauty & Personal Care,ORD000420,West,05-04-2026,2026-04,2026,Sunday
+SES000950,CUST00781,06-04-2026,purchase,Email,Mobile,P006,Cotton T-Shirt,Fashion,ORD000705,West,06-04-2026,2026-04,2026,Monday
+SES003072,CUST01307,06-04-2026,purchase,Email,Desktop,P017,Hair Dryer,Beauty & Personal Care,ORD000053,East,06-04-2026,2026-04,2026,Monday
+SES002909,CUST00629,06-04-2026,purchase,Search,Tablet,P002,Smart Watch,Electronics,ORD001317,East,06-04-2026,2026-04,2026,Monday
+SES000696,CUST00909,06-04-2026,purchase,Search,Mobile,P004,Laptop Backpack,Fashion,ORD001004,West,06-04-2026,2026-04,2026,Monday
+SES001387,CUST00313,07-04-2026,purchase,Search,Mobile,P002,Smart Watch,Electronics,ORD000224,West,07-04-2026,2026-04,2026,Tuesday
+SES001737,CUST01678,07-04-2026,purchase,Search,Mobile,P019,Sunglasses,Fashion,ORD001243,East,07-04-2026,2026-04,2026,Tuesday
+SES001402,CUST01483,07-04-2026,purchase,Search,Mobile,P018,Phone Charger,Electronics,ORD000829,West,07-04-2026,2026-04,2026,Tuesday
+SES001255,CUST00557,08-04-2026,purchase,Search,Desktop,P009,Water Bottle,Home & Kitchen,ORD000707,South,08-04-2026,2026-04,2026,Wednesday
+SES001113,CUST00956,08-04-2026,purchase,Email,Tablet,P010,Notebook Set,Books & Stationery,ORD000894,East,08-04-2026,2026-04,2026,Wednesday
+SES002870,CUST01376,09-04-2026,purchase,Social,Desktop,P005,Running Shoes,Fashion,ORD001217,Central,09-04-2026,2026-04,2026,Thursday
+SES000391,CUST00801,09-04-2026,purchase,Email,Desktop,P004,Laptop Backpack,Fashion,ORD000944,East,09-04-2026,2026-04,2026,Thursday
+SES000723,CUST00429,09-04-2026,purchase,Search,Tablet,P003,Bluetooth Speaker,Electronics,ORD000185,West,09-04-2026,2026-04,2026,Thursday
+SES000698,CUST00711,09-04-2026,purchase,Search,Mobile,P015,Dumbbell Set,Sports & Fitness,ORD000467,North,09-04-2026,2026-04,2026,Thursday
+SES002888,CUST01241,09-04-2026,purchase,Direct,Desktop,P018,Phone Charger,Electronics,ORD000415,Central,09-04-2026,2026-04,2026,Thursday
+SES003120,CUST01383,09-04-2026,purchase,Referral,Desktop,P003,Bluetooth Speaker,Electronics,ORD000968,Central,09-04-2026,2026-04,2026,Thursday
+SES001151,CUST01394,09-04-2026,purchase,Direct,Desktop,P005,Running Shoes,Fashion,ORD000972,Central,09-04-2026,2026-04,2026,Thursday
+SES002614,CUST00268,09-04-2026,purchase,Direct,Desktop,P012,Office Chair,Furniture,ORD000350,South,09-04-2026,2026-04,2026,Thursday
+SES000730,CUST01750,10-04-2026,purchase,Direct,Mobile,P016,Face Wash,Beauty & Personal Care,ORD000097,West,10-04-2026,2026-04,2026,Friday
+SES002100,CUST00187,10-04-2026,purchase,Social,Desktop,P018,Phone Charger,Electronics,ORD000577,Central,10-04-2026,2026-04,2026,Friday
+SES002133,CUST00578,10-04-2026,purchase,Social,Desktop,P020,Kitchen Storage Box,Home & Kitchen,ORD001065,North,10-04-2026,2026-04,2026,Friday
+SES000519,CUST00492,11-04-2026,purchase,Social,Desktop,P011,Programming Book,Books & Stationery,ORD000858,North,11-04-2026,2026-04,2026,Saturday
+SES002193,CUST01758,11-04-2026,purchase,Direct,Desktop,P006,Cotton T-Shirt,Fashion,ORD000286,West,11-04-2026,2026-04,2026,Saturday
+SES000259,CUST00849,12-04-2026,purchase,Search,Mobile,P011,Programming Book,Books & Stationery,ORD000832,West,12-04-2026,2026-04,2026,Sunday
+SES002555,CUST01027,12-04-2026,purchase,Email,Mobile,P008,Mixer Grinder,Home & Kitchen,ORD001311,Central,12-04-2026,2026-04,2026,Sunday
+SES002978,CUST00183,12-04-2026,purchase,Referral,Mobile,P013,Study Table,Furniture,ORD000506,North,12-04-2026,2026-04,2026,Sunday
+SES001957,CUST00744,12-04-2026,purchase,Search,Mobile,P002,Smart Watch,Electronics,ORD000382,North,12-04-2026,2026-04,2026,Sunday
+SES001312,CUST00916,13-04-2026,purchase,Email,Mobile,P015,Dumbbell Set,Sports & Fitness,ORD000770,North,13-04-2026,2026-04,2026,Monday
+SES000984,CUST00039,14-04-2026,purchase,Referral,Desktop,P010,Notebook Set,Books & Stationery,ORD000817,West,14-04-2026,2026-04,2026,Tuesday
+SES002879,CUST01541,14-04-2026,purchase,Email,Mobile,P017,Hair Dryer,Beauty & Personal Care,ORD000613,West,14-04-2026,2026-04,2026,Tuesday
+SES000358,CUST00311,14-04-2026,purchase,Referral,Desktop,P020,Kitchen Storage Box,Home & Kitchen,ORD001224,West,14-04-2026,2026-04,2026,Tuesday
+SES003262,CUST01322,15-04-2026,purchase,Email,Mobile,P011,Programming Book,Books & Stationery,ORD001091,West,15-04-2026,2026-04,2026,Wednesday
+SES002416,CUST01178,15-04-2026,purchase,Search,Mobile,P017,Hair Dryer,Beauty & Personal Care,ORD001319,South,15-04-2026,2026-04,2026,Wednesday
+SES002490,CUST01304,15-04-2026,purchase,Search,Desktop,P019,Sunglasses,Fashion,ORD000295,West,15-04-2026,2026-04,2026,Wednesday
+SES003237,CUST00794,15-04-2026,purchase,Email,Desktop,P004,Laptop Backpack,Fashion,ORD001085,East,15-04-2026,2026-04,2026,Wednesday
+SES000612,CUST01244,15-04-2026,purchase,Referral,Desktop,P001,Wireless Earbuds,Electronics,ORD001249,East,15-04-2026,2026-04,2026,Wednesday
+SES001329,CUST01477,16-04-2026,purchase,Direct,Mobile,P014,Yoga Mat,Sports & Fitness,ORD000844,Central,16-04-2026,2026-04,2026,Thursday
+SES000287,CUST00957,17-04-2026,purchase,Search,Mobile,P010,Notebook Set,Books & Stationery,ORD001162,Central,17-04-2026,2026-04,2026,Friday
+SES000190,CUST01373,17-04-2026,purchase,Search,Desktop,P005,Running Shoes,Fashion,ORD000513,West,17-04-2026,2026-04,2026,Friday
+SES001683,CUST00948,18-04-2026,purchase,Search,Mobile,P010,Notebook Set,Books & Stationery,ORD000035,Central,18-04-2026,2026-04,2026,Saturday
+SES001693,CUST01391,18-04-2026,purchase,Search,Desktop,P011,Programming Book,Books & Stationery,ORD001158,Central,18-04-2026,2026-04,2026,Saturday
+SES002530,CUST00011,18-04-2026,purchase,Search,Mobile,P012,Office Chair,Furniture,ORD000376,East,18-04-2026,2026-04,2026,Saturday
+SES002834,CUST01438,18-04-2026,purchase,Social,Mobile,P001,Wireless Earbuds,Electronics,ORD001228,Central,18-04-2026,2026-04,2026,Saturday
+SES002913,CUST01228,18-04-2026,purchase,Direct,Mobile,P019,Sunglasses,Fashion,ORD001151,West,18-04-2026,2026-04,2026,Saturday
+SES002622,CUST00952,18-04-2026,purchase,Direct,Mobile,P008,Mixer Grinder,Home & Kitchen,ORD000178,North,18-04-2026,2026-04,2026,Saturday
+SES000332,CUST01702,18-04-2026,purchase,Referral,Desktop,P018,Phone Charger,Electronics,ORD000892,West,18-04-2026,2026-04,2026,Saturday
+SES000752,CUST00917,18-04-2026,purchase,Search,Desktop,P018,Phone Charger,Electronics,ORD001293,West,18-04-2026,2026-04,2026,Saturday
+SES002605,CUST00939,19-04-2026,purchase,Search,Mobile,P013,Study Table,Furniture,ORD000417,Central,19-04-2026,2026-04,2026,Sunday
+SES003400,CUST00318,19-04-2026,purchase,Email,Tablet,P009,Water Bottle,Home & Kitchen,ORD001101,Central,19-04-2026,2026-04,2026,Sunday
+SES000136,CUST01694,19-04-2026,purchase,Social,Desktop,P020,Kitchen Storage Box,Home & Kitchen,ORD000563,South,19-04-2026,2026-04,2026,Sunday
+SES003513,CUST01441,20-04-2026,purchase,Social,Tablet,P006,Cotton T-Shirt,Fashion,ORD001297,South,20-04-2026,2026-04,2026,Monday
+SES001647,CUST01444,20-04-2026,purchase,Search,Mobile,P011,Programming Book,Books & Stationery,ORD001368,East,20-04-2026,2026-04,2026,Monday
+SES003448,CUST00716,21-04-2026,purchase,Social,Mobile,P011,Programming Book,Books & Stationery,ORD000791,North,21-04-2026,2026-04,2026,Tuesday
+SES002558,CUST01113,21-04-2026,purchase,Search,Mobile,P011,Programming Book,Books & Stationery,ORD000457,West,21-04-2026,2026-04,2026,Tuesday
+SES001248,CUST00923,21-04-2026,purchase,Direct,Desktop,P016,Face Wash,Beauty & Personal Care,ORD000011,South,21-04-2026,2026-04,2026,Tuesday
+SES000466,CUST01381,21-04-2026,purchase,Search,Desktop,P015,Dumbbell Set,Sports & Fitness,ORD000640,Central,21-04-2026,2026-04,2026,Tuesday
+SES003553,CUST01169,21-04-2026,purchase,Referral,Desktop,P004,Laptop Backpack,Fashion,ORD001230,East,21-04-2026,2026-04,2026,Tuesday
+SES003055,CUST00061,21-04-2026,purchase,Referral,Desktop,P014,Yoga Mat,Sports & Fitness,ORD000578,South,21-04-2026,2026-04,2026,Tuesday
+SES002200,CUST01694,21-04-2026,purchase,Direct,Tablet,P005,Running Shoes,Fashion,ORD000729,Central,21-04-2026,2026-04,2026,Tuesday
+SES002003,CUST00106,22-04-2026,purchase,Email,Mobile,P016,Face Wash,Beauty & Personal Care,ORD000959,East,22-04-2026,2026-04,2026,Wednesday
+SES000244,CUST00947,22-04-2026,purchase,Email,Desktop,P009,Water Bottle,Home & Kitchen,ORD000204,South,22-04-2026,2026-04,2026,Wednesday
+SES002004,CUST01008,22-04-2026,purchase,Search,Mobile,P002,Smart Watch,Electronics,ORD000753,South,22-04-2026,2026-04,2026,Wednesday
+SES001860,CUST00188,22-04-2026,purchase,Email,Mobile,P001,Wireless Earbuds,Electronics,ORD000499,West,22-04-2026,2026-04,2026,Wednesday
+SES002266,CUST00311,22-04-2026,purchase,Search,Mobile,P009,Water Bottle,Home & Kitchen,ORD000525,West,22-04-2026,2026-04,2026,Wednesday
+SES002713,CUST00361,22-04-2026,purchase,Search,Desktop,P004,Laptop Backpack,Fashion,ORD001247,East,22-04-2026,2026-04,2026,Wednesday
+SES002719,CUST01531,23-04-2026,purchase,Social,Tablet,P008,Mixer Grinder,Home & Kitchen,ORD000403,North,23-04-2026,2026-04,2026,Thursday
+SES001828,CUST00014,23-04-2026,purchase,Search,Tablet,P006,Cotton T-Shirt,Fashion,ORD001105,Central,23-04-2026,2026-04,2026,Thursday
+SES002617,CUST01099,23-04-2026,purchase,Direct,Mobile,P014,Yoga Mat,Sports & Fitness,ORD000822,Central,23-04-2026,2026-04,2026,Thursday
+SES001278,CUST00983,23-04-2026,purchase,Social,Mobile,P020,Kitchen Storage Box,Home & Kitchen,ORD000108,South,23-04-2026,2026-04,2026,Thursday
+SES003258,CUST01286,23-04-2026,purchase,Referral,Mobile,P003,Bluetooth Speaker,Electronics,ORD000694,West,23-04-2026,2026-04,2026,Thursday
+SES001424,CUST00313,24-04-2026,purchase,Search,Mobile,P001,Wireless Earbuds,Electronics,ORD001144,South,24-04-2026,2026-04,2026,Friday
+SES001570,CUST01368,24-04-2026,purchase,Direct,Mobile,P019,Sunglasses,Fashion,ORD000900,South,24-04-2026,2026-04,2026,Friday
+SES003259,CUST01710,24-04-2026,purchase,Referral,Mobile,P003,Bluetooth Speaker,Electronics,ORD000871,West,24-04-2026,2026-04,2026,Friday
+SES003426,CUST00806,24-04-2026,purchase,Direct,Mobile,P018,Phone Charger,Electronics,ORD000030,West,24-04-2026,2026-04,2026,Friday
+SES000101,CUST01263,24-04-2026,purchase,Direct,Desktop,P010,Notebook Set,Books & Stationery,ORD000549,West,24-04-2026,2026-04,2026,Friday
+SES001947,CUST01540,25-04-2026,purchase,Direct,Tablet,P020,Kitchen Storage Box,Home & Kitchen,ORD000512,West,25-04-2026,2026-04,2026,Saturday
+SES001975,CUST00324,25-04-2026,purchase,Referral,Desktop,P003,Bluetooth Speaker,Electronics,ORD000043,Central,25-04-2026,2026-04,2026,Saturday
+SES003068,CUST01046,25-04-2026,purchase,Social,Mobile,P004,Laptop Backpack,Fashion,ORD000828,Central,25-04-2026,2026-04,2026,Saturday
+SES002443,CUST00327,25-04-2026,purchase,Direct,Mobile,P001,Wireless Earbuds,Electronics,ORD000171,South,25-04-2026,2026-04,2026,Saturday
+SES001145,CUST01479,26-04-2026,purchase,Direct,Mobile,P006,Cotton T-Shirt,Fashion,ORD000757,East,26-04-2026,2026-04,2026,Sunday
+SES003508,CUST01400,26-04-2026,purchase,Email,Desktop,P020,Kitchen Storage Box,Home & Kitchen,ORD001398,North,26-04-2026,2026-04,2026,Sunday
+SES001564,CUST00295,26-04-2026,purchase,Social,Tablet,P014,Yoga Mat,Sports & Fitness,ORD001070,West,26-04-2026,2026-04,2026,Sunday
+SES000200,CUST01429,26-04-2026,purchase,Referral,Mobile,P019,Sunglasses,Fashion,ORD000103,South,26-04-2026,2026-04,2026,Sunday
+SES001998,CUST00866,26-04-2026,purchase,Social,Mobile,P005,Running Shoes,Fashion,ORD000430,North,26-04-2026,2026-04,2026,Sunday
+SES003595,CUST01219,27-04-2026,purchase,Direct,Mobile,P003,Bluetooth Speaker,Electronics,ORD000650,West,27-04-2026,2026-04,2026,Monday
+SES002039,CUST01738,27-04-2026,purchase,Social,Mobile,P001,Wireless Earbuds,Electronics,ORD001031,North,27-04-2026,2026-04,2026,Monday
+SES000124,CUST01797,27-04-2026,purchase,Referral,Desktop,P008,Mixer Grinder,Home & Kitchen,ORD000614,Central,27-04-2026,2026-04,2026,Monday
+SES002653,CUST00620,28-04-2026,purchase,Social,Mobile,P019,Sunglasses,Fashion,ORD000498,East,28-04-2026,2026-04,2026,Tuesday
+SES002446,CUST01157,28-04-2026,purchase,Direct,Tablet,P020,Kitchen Storage Box,Home & Kitchen,ORD000084,North,28-04-2026,2026-04,2026,Tuesday
+SES000485,CUST00710,28-04-2026,purchase,Social,Mobile,P005,Running Shoes,Fashion,ORD000453,East,28-04-2026,2026-04,2026,Tuesday
+SES000623,CUST00128,28-04-2026,purchase,Search,Mobile,P020,Kitchen Storage Box,Home & Kitchen,ORD000302,South,28-04-2026,2026-04,2026,Tuesday
+SES000354,CUST00474,29-04-2026,purchase,Direct,Mobile,P014,Yoga Mat,Sports & Fitness,ORD000783,East,29-04-2026,2026-04,2026,Wednesday
+SES000410,CUST01073,29-04-2026,purchase,Search,Desktop,P014,Yoga Mat,Sports & Fitness,ORD000157,Central,29-04-2026,2026-04,2026,Wednesday
+SES001558,CUST01648,29-04-2026,purchase,Referral,Mobile,P018,Phone Charger,Electronics,ORD000263,North,29-04-2026,2026-04,2026,Wednesday
+SES002449,CUST01312,30-04-2026,purchase,Direct,Mobile,P010,Notebook Set,Books & Stationery,ORD000464,West,30-04-2026,2026-04,2026,Thursday
+SES001651,CUST00964,30-04-2026,purchase,Email,Mobile,P016,Face Wash,Beauty & Personal Care,ORD001355,South,30-04-2026,2026-04,2026,Thursday
+SES002294,CUST00119,30-04-2026,purchase,Search,Mobile,P013,Study Table,Furniture,ORD001172,Central,30-04-2026,2026-04,2026,Thursday
+SES001419,CUST01536,30-04-2026,purchase,Referral,Mobile,P009,Water Bottle,Home & Kitchen,ORD001063,North,30-04-2026,2026-04,2026,Thursday
+SES000395,CUST00286,01-05-2026,purchase,Direct,Tablet,P004,Laptop Backpack,Fashion,ORD000187,South,01-05-2026,2026-05,2026,Friday
+SES000370,CUST01157,01-05-2026,purchase,Referral,Desktop,P009,Water Bottle,Home & Kitchen,ORD001322,Central,01-05-2026,2026-05,2026,Friday
+SES003232,CUST01548,01-05-2026,purchase,Direct,Mobile,P012,Office Chair,Furniture,ORD000736,Central,01-05-2026,2026-05,2026,Friday
+SES002359,CUST01334,01-05-2026,purchase,Social,Mobile,P007,Coffee Maker,Home & Kitchen,ORD000934,West,01-05-2026,2026-05,2026,Friday
+SES003422,CUST00833,02-05-2026,purchase,Direct,Mobile,P020,Kitchen Storage Box,Home & Kitchen,ORD000223,North,02-05-2026,2026-05,2026,Saturday
+SES000345,CUST01021,02-05-2026,purchase,Social,Mobile,P011,Programming Book,Books & Stationery,ORD000017,South,02-05-2026,2026-05,2026,Saturday
+SES002820,CUST00862,02-05-2026,purchase,Search,Mobile,P017,Hair Dryer,Beauty & Personal Care,ORD001135,Central,02-05-2026,2026-05,2026,Saturday
+SES001121,CUST01285,02-05-2026,purchase,Referral,Mobile,P007,Coffee Maker,Home & Kitchen,ORD000659,Central,02-05-2026,2026-05,2026,Saturday
+SES001326,CUST01309,02-05-2026,purchase,Email,Mobile,P003,Bluetooth Speaker,Electronics,ORD000812,Central,02-05-2026,2026-05,2026,Saturday
+SES001104,CUST00755,03-05-2026,purchase,Search,Mobile,P017,Hair Dryer,Beauty & Personal Care,ORD001032,East,03-05-2026,2026-05,2026,Sunday
+SES002424,CUST01626,03-05-2026,purchase,Direct,Mobile,P002,Smart Watch,Electronics,ORD001248,East,03-05-2026,2026-05,2026,Sunday
+SES001376,CUST00524,03-05-2026,purchase,Email,Mobile,P013,Study Table,Furniture,ORD000431,West,03-05-2026,2026-05,2026,Sunday
+SES000985,CUST00082,03-05-2026,purchase,Direct,Mobile,P019,Sunglasses,Fashion,ORD000731,South,03-05-2026,2026-05,2026,Sunday
+SES001389,CUST00854,03-05-2026,purchase,Search,Tablet,P004,Laptop Backpack,Fashion,ORD000293,South,03-05-2026,2026-05,2026,Sunday
+SES002082,CUST00377,04-05-2026,purchase,Search,Desktop,P008,Mixer Grinder,Home & Kitchen,ORD000550,West,04-05-2026,2026-05,2026,Monday
+SES000025,CUST01122,04-05-2026,purchase,Email,Mobile,P006,Cotton T-Shirt,Fashion,ORD000500,North,04-05-2026,2026-05,2026,Monday
+SES000236,CUST00498,04-05-2026,purchase,Direct,Mobile,P019,Sunglasses,Fashion,ORD001333,South,04-05-2026,2026-05,2026,Monday
+SES002942,CUST01741,04-05-2026,purchase,Search,Mobile,P019,Sunglasses,Fashion,ORD000904,South,04-05-2026,2026-05,2026,Monday
+SES002064,CUST01707,04-05-2026,purchase,Social,Mobile,P015,Dumbbell Set,Sports & Fitness,ORD001141,West,04-05-2026,2026-05,2026,Monday
+SES001695,CUST00576,04-05-2026,purchase,Search,Mobile,P003,Bluetooth Speaker,Electronics,ORD001145,Central,04-05-2026,2026-05,2026,Monday
+SES001751,CUST00328,05-05-2026,purchase,Search,Mobile,P017,Hair Dryer,Beauty & Personal Care,ORD001313,West,05-05-2026,2026-05,2026,Tuesday
+SES002575,CUST01089,05-05-2026,purchase,Search,Mobile,P007,Coffee Maker,Home & Kitchen,ORD001289,North,05-05-2026,2026-05,2026,Tuesday
+SES000792,CUST01177,06-05-2026,purchase,Direct,Mobile,P003,Bluetooth Speaker,Electronics,ORD000590,South,06-05-2026,2026-05,2026,Wednesday
+SES000331,CUST00210,06-05-2026,purchase,Direct,Tablet,P018,Phone Charger,Electronics,ORD000785,South,06-05-2026,2026-05,2026,Wednesday
+SES001377,CUST01562,07-05-2026,purchase,Social,Mobile,P003,Bluetooth Speaker,Electronics,ORD000462,West,07-05-2026,2026-05,2026,Thursday
+SES002338,CUST01348,07-05-2026,purchase,Social,Mobile,P001,Wireless Earbuds,Electronics,ORD000083,West,07-05-2026,2026-05,2026,Thursday
+SES001603,CUST01385,07-05-2026,purchase,Direct,Mobile,P013,Study Table,Furniture,ORD001136,Central,07-05-2026,2026-05,2026,Thursday
+SES002268,CUST00594,08-05-2026,purchase,Search,Mobile,P011,Programming Book,Books & Stationery,ORD000483,North,08-05-2026,2026-05,2026,Friday
+SES000318,CUST00794,08-05-2026,purchase,Social,Mobile,P020,Kitchen Storage Box,Home & Kitchen,ORD000052,West,08-05-2026,2026-05,2026,Friday
+SES003070,CUST01690,08-05-2026,purchase,Search,Desktop,P004,Laptop Backpack,Fashion,ORD000123,Central,08-05-2026,2026-05,2026,Friday
+SES001299,CUST01202,08-05-2026,purchase,Search,Desktop,P014,Yoga Mat,Sports & Fitness,ORD001199,West,08-05-2026,2026-05,2026,Friday
+SES000996,CUST01565,08-05-2026,purchase,Direct,Desktop,P002,Smart Watch,Electronics,ORD000648,North,08-05-2026,2026-05,2026,Friday
+SES001488,CUST00664,08-05-2026,purchase,Social,Mobile,P006,Cotton T-Shirt,Fashion,ORD000388,East,08-05-2026,2026-05,2026,Friday
+SES001817,CUST00117,08-05-2026,purchase,Social,Tablet,P016,Face Wash,Beauty & Personal Care,ORD000898,East,08-05-2026,2026-05,2026,Friday
+SES002750,CUST00029,09-05-2026,purchase,Email,Mobile,P018,Phone Charger,Electronics,ORD000373,East,09-05-2026,2026-05,2026,Saturday
+SES000675,CUST00517,09-05-2026,purchase,Social,Desktop,P001,Wireless Earbuds,Electronics,ORD001219,West,09-05-2026,2026-05,2026,Saturday
+SES001959,CUST01185,09-05-2026,purchase,Search,Desktop,P006,Cotton T-Shirt,Fashion,ORD000148,East,09-05-2026,2026-05,2026,Saturday
+SES002974,CUST01230,09-05-2026,purchase,Social,Desktop,P020,Kitchen Storage Box,Home & Kitchen,ORD001182,Central,09-05-2026,2026-05,2026,Saturday
+SES000461,CUST00363,10-05-2026,purchase,Referral,Desktop,P004,Laptop Backpack,Fashion,ORD000066,North,10-05-2026,2026-05,2026,Sunday
+SES001511,CUST01633,10-05-2026,purchase,Referral,Mobile,P006,Cotton T-Shirt,Fashion,ORD000235,West,10-05-2026,2026-05,2026,Sunday
+SES003085,CUST00126,10-05-2026,purchase,Direct,Mobile,P006,Cotton T-Shirt,Fashion,ORD001190,Central,10-05-2026,2026-05,2026,Sunday
+SES002613,CUST00502,10-05-2026,purchase,Referral,Tablet,P003,Bluetooth Speaker,Electronics,ORD000198,West,10-05-2026,2026-05,2026,Sunday
+SES002498,CUST01798,11-05-2026,purchase,Social,Desktop,P001,Wireless Earbuds,Electronics,ORD000842,West,11-05-2026,2026-05,2026,Monday
+SES002808,CUST00575,11-05-2026,purchase,Referral,Mobile,P013,Study Table,Furniture,ORD001252,South,11-05-2026,2026-05,2026,Monday
+SES002511,CUST00152,11-05-2026,purchase,Referral,Mobile,P004,Laptop Backpack,Fashion,ORD001053,East,11-05-2026,2026-05,2026,Monday
+SES000298,CUST00047,11-05-2026,purchase,Search,Tablet,P007,Coffee Maker,Home & Kitchen,ORD000463,West,11-05-2026,2026-05,2026,Monday
+SES001008,CUST00307,12-05-2026,purchase,Social,Mobile,P015,Dumbbell Set,Sports & Fitness,ORD001019,East,12-05-2026,2026-05,2026,Tuesday
+SES000040,CUST00330,12-05-2026,purchase,Referral,Mobile,P008,Mixer Grinder,Home & Kitchen,ORD000438,West,12-05-2026,2026-05,2026,Tuesday
+SES001168,CUST01525,12-05-2026,purchase,Referral,Desktop,P017,Hair Dryer,Beauty & Personal Care,ORD000147,East,12-05-2026,2026-05,2026,Tuesday
+SES002460,CUST01251,12-05-2026,purchase,Search,Tablet,P013,Study Table,Furniture,ORD000794,Central,12-05-2026,2026-05,2026,Tuesday
+SES000997,CUST00851,12-05-2026,purchase,Search,Desktop,P009,Water Bottle,Home & Kitchen,ORD001279,East,12-05-2026,2026-05,2026,Tuesday
+SES001666,CUST01303,12-05-2026,purchase,Search,Mobile,P016,Face Wash,Beauty & Personal Care,ORD001278,West,12-05-2026,2026-05,2026,Tuesday
+SES003100,CUST00407,12-05-2026,purchase,Email,Mobile,P013,Study Table,Furniture,ORD001339,South,12-05-2026,2026-05,2026,Tuesday
+SES000084,CUST01138,12-05-2026,purchase,Direct,Desktop,P004,Laptop Backpack,Fashion,ORD000680,South,12-05-2026,2026-05,2026,Tuesday
+SES000663,CUST01514,13-05-2026,purchase,Social,Mobile,P009,Water Bottle,Home & Kitchen,ORD000624,East,13-05-2026,2026-05,2026,Wednesday
+SES000027,CUST00973,13-05-2026,purchase,Search,Tablet,P017,Hair Dryer,Beauty & Personal Care,ORD000676,North,13-05-2026,2026-05,2026,Wednesday
+SES000611,CUST00401,14-05-2026,purchase,Search,Desktop,P019,Sunglasses,Fashion,ORD000468,Central,14-05-2026,2026-05,2026,Thursday
+SES002980,CUST00987,14-05-2026,purchase,Search,Mobile,P010,Notebook Set,Books & Stationery,ORD001236,North,14-05-2026,2026-05,2026,Thursday
+SES001859,CUST01582,14-05-2026,purchase,Search,Desktop,P004,Laptop Backpack,Fashion,ORD000362,South,14-05-2026,2026-05,2026,Thursday
+SES001302,CUST00309,14-05-2026,purchase,Search,Mobile,P006,Cotton T-Shirt,Fashion,ORD001016,East,14-05-2026,2026-05,2026,Thursday
+SES002016,CUST01521,14-05-2026,purchase,Direct,Mobile,P019,Sunglasses,Fashion,ORD000440,North,14-05-2026,2026-05,2026,Thursday
+SES002889,CUST00029,15-05-2026,purchase,Direct,Desktop,P006,Cotton T-Shirt,Fashion,ORD000539,South,15-05-2026,2026-05,2026,Friday
+SES001427,CUST01176,15-05-2026,purchase,Search,Mobile,P003,Bluetooth Speaker,Electronics,ORD000496,Central,15-05-2026,2026-05,2026,Friday
+SES002852,CUST01057,15-05-2026,purchase,Direct,Mobile,P005,Running Shoes,Fashion,ORD000801,North,15-05-2026,2026-05,2026,Friday
+SES000811,CUST00475,15-05-2026,purchase,Direct,Mobile,P004,Laptop Backpack,Fashion,ORD000132,South,15-05-2026,2026-05,2026,Friday
+SES003004,CUST00340,15-05-2026,purchase,Search,Mobile,P006,Cotton T-Shirt,Fashion,ORD000555,East,15-05-2026,2026-05,2026,Friday
+SES000252,CUST00769,15-05-2026,purchase,Search,Desktop,P016,Face Wash,Beauty & Personal Care,ORD000192,East,15-05-2026,2026-05,2026,Friday
+SES003307,CUST00644,16-05-2026,purchase,Search,Desktop,P015,Dumbbell Set,Sports & Fitness,ORD001373,North,16-05-2026,2026-05,2026,Saturday
+SES003218,CUST00159,16-05-2026,purchase,Search,Desktop,P014,Yoga Mat,Sports & Fitness,ORD001384,East,16-05-2026,2026-05,2026,Saturday
+SES000561,CUST00958,17-05-2026,purchase,Social,Desktop,P004,Laptop Backpack,Fashion,ORD000071,East,17-05-2026,2026-05,2026,Sunday
+SES003050,CUST00826,17-05-2026,purchase,Social,Mobile,P019,Sunglasses,Fashion,ORD000720,North,17-05-2026,2026-05,2026,Sunday
+SES003294,CUST00919,17-05-2026,purchase,Search,Desktop,P003,Bluetooth Speaker,Electronics,ORD001200,East,17-05-2026,2026-05,2026,Sunday
+SES000602,CUST00157,18-05-2026,purchase,Social,Mobile,P018,Phone Charger,Electronics,ORD000821,Central,18-05-2026,2026-05,2026,Monday
+SES002510,CUST01668,18-05-2026,purchase,Search,Mobile,P018,Phone Charger,Electronics,ORD000206,West,18-05-2026,2026-05,2026,Monday
+SES000931,CUST01700,18-05-2026,purchase,Search,Mobile,P010,Notebook Set,Books & Stationery,ORD001122,Central,18-05-2026,2026-05,2026,Monday
+SES000837,CUST00549,19-05-2026,purchase,Search,Desktop,P005,Running Shoes,Fashion,ORD001024,South,19-05-2026,2026-05,2026,Tuesday
+SES003066,CUST00690,19-05-2026,purchase,Email,Mobile,P020,Kitchen Storage Box,Home & Kitchen,ORD000626,North,19-05-2026,2026-05,2026,Tuesday
+SES002099,CUST00955,19-05-2026,purchase,Search,Mobile,P001,Wireless Earbuds,Electronics,ORD000661,East,19-05-2026,2026-05,2026,Tuesday
+SES002620,CUST01563,20-05-2026,purchase,Search,Mobile,P007,Coffee Maker,Home & Kitchen,ORD001360,South,20-05-2026,2026-05,2026,Wednesday
+SES003117,CUST00087,20-05-2026,purchase,Direct,Mobile,P018,Phone Charger,Electronics,ORD001002,West,20-05-2026,2026-05,2026,Wednesday
+SES003291,CUST01324,21-05-2026,purchase,Search,Desktop,P007,Coffee Maker,Home & Kitchen,ORD001326,Central,21-05-2026,2026-05,2026,Thursday
+SES002652,CUST01311,21-05-2026,purchase,Referral,Mobile,P004,Laptop Backpack,Fashion,ORD000345,South,21-05-2026,2026-05,2026,Thursday
+SES001004,CUST00739,21-05-2026,purchase,Referral,Mobile,P001,Wireless Earbuds,Electronics,ORD000526,Central,21-05-2026,2026-05,2026,Thursday
+SES002522,CUST00593,22-05-2026,purchase,Email,Mobile,P018,Phone Charger,Electronics,ORD000296,Central,22-05-2026,2026-05,2026,Friday
+SES001904,CUST00137,22-05-2026,purchase,Social,Desktop,P008,Mixer Grinder,Home & Kitchen,ORD000476,North,22-05-2026,2026-05,2026,Friday
+SES001117,CUST01696,22-05-2026,purchase,Direct,Mobile,P009,Water Bottle,Home & Kitchen,ORD000931,East,22-05-2026,2026-05,2026,Friday
+SES003440,CUST00715,22-05-2026,purchase,Social,Desktop,P006,Cotton T-Shirt,Fashion,ORD001347,South,22-05-2026,2026-05,2026,Friday
+SES001213,CUST01014,22-05-2026,purchase,Search,Mobile,P004,Laptop Backpack,Fashion,ORD001000,South,22-05-2026,2026-05,2026,Friday
+SES002722,CUST01474,23-05-2026,purchase,Referral,Mobile,P020,Kitchen Storage Box,Home & Kitchen,ORD000408,East,23-05-2026,2026-05,2026,Saturday
+SES003358,CUST01450,23-05-2026,purchase,Social,Mobile,P016,Face Wash,Beauty & Personal Care,ORD000521,North,23-05-2026,2026-05,2026,Saturday
+SES002768,CUST00016,24-05-2026,purchase,Search,Mobile,P006,Cotton T-Shirt,Fashion,ORD000519,West,24-05-2026,2026-05,2026,Sunday
+SES003107,CUST01576,24-05-2026,purchase,Direct,Desktop,P017,Hair Dryer,Beauty & Personal Care,ORD001080,South,24-05-2026,2026-05,2026,Sunday
+SES001592,CUST01369,24-05-2026,purchase,Social,Mobile,P020,Kitchen Storage Box,Home & Kitchen,ORD000708,North,24-05-2026,2026-05,2026,Sunday
+SES002377,CUST00420,24-05-2026,purchase,Search,Desktop,P016,Face Wash,Beauty & Personal Care,ORD000012,North,24-05-2026,2026-05,2026,Sunday
+SES002681,CUST00133,25-05-2026,purchase,Direct,Desktop,P016,Face Wash,Beauty & Personal Care,ORD001138,West,25-05-2026,2026-05,2026,Monday
+SES000064,CUST00037,25-05-2026,purchase,Search,Mobile,P017,Hair Dryer,Beauty & Personal Care,ORD000766,North,25-05-2026,2026-05,2026,Monday
+SES001766,CUST00513,25-05-2026,purchase,Search,Mobile,P020,Kitchen Storage Box,Home & Kitchen,ORD001143,West,25-05-2026,2026-05,2026,Monday
+SES003599,CUST00886,26-05-2026,purchase,Direct,Mobile,P003,Bluetooth Speaker,Electronics,ORD000780,East,26-05-2026,2026-05,2026,Tuesday
+SES000396,CUST00491,26-05-2026,purchase,Search,Tablet,P005,Running Shoes,Fashion,ORD000246,North,26-05-2026,2026-05,2026,Tuesday
+SES000737,CUST01751,26-05-2026,purchase,Search,Tablet,P020,Kitchen Storage Box,Home & Kitchen,ORD000449,East,26-05-2026,2026-05,2026,Tuesday
+SES001586,CUST00956,26-05-2026,purchase,Search,Mobile,P008,Mixer Grinder,Home & Kitchen,ORD001052,North,26-05-2026,2026-05,2026,Tuesday
+SES003138,CUST00160,27-05-2026,purchase,Direct,Mobile,P007,Coffee Maker,Home & Kitchen,ORD000632,South,27-05-2026,2026-05,2026,Wednesday
+SES003437,CUST00029,27-05-2026,purchase,Referral,Mobile,P006,Cotton T-Shirt,Fashion,ORD000799,North,27-05-2026,2026-05,2026,Wednesday
+SES003027,CUST00166,27-05-2026,purchase,Referral,Mobile,P020,Kitchen Storage Box,Home & Kitchen,ORD000913,Central,27-05-2026,2026-05,2026,Wednesday
+SES002041,CUST01773,27-05-2026,purchase,Referral,Mobile,P020,Kitchen Storage Box,Home & Kitchen,ORD000692,South,27-05-2026,2026-05,2026,Wednesday
+SES003295,CUST00844,27-05-2026,purchase,Social,Mobile,P014,Yoga Mat,Sports & Fitness,ORD000044,East,27-05-2026,2026-05,2026,Wednesday
+SES000112,CUST01597,28-05-2026,purchase,Social,Mobile,P019,Sunglasses,Fashion,ORD000623,West,28-05-2026,2026-05,2026,Thursday
+SES002749,CUST01760,28-05-2026,purchase,Social,Desktop,P003,Bluetooth Speaker,Electronics,ORD000173,South,28-05-2026,2026-05,2026,Thursday
+SES000256,CUST00146,28-05-2026,purchase,Referral,Desktop,P004,Laptop Backpack,Fashion,ORD000565,South,28-05-2026,2026-05,2026,Thursday
+SES000758,CUST00561,28-05-2026,purchase,Search,Mobile,P020,Kitchen Storage Box,Home & Kitchen,ORD000170,South,28-05-2026,2026-05,2026,Thursday
+SES000965,CUST00589,28-05-2026,purchase,Email,Desktop,P017,Hair Dryer,Beauty & Personal Care,ORD000735,East,28-05-2026,2026-05,2026,Thursday
+SES000977,CUST01798,29-05-2026,purchase,Direct,Mobile,P001,Wireless Earbuds,Electronics,ORD001069,Central,29-05-2026,2026-05,2026,Friday
+SES000373,CUST01347,30-05-2026,purchase,Search,Mobile,P008,Mixer Grinder,Home & Kitchen,ORD000688,West,30-05-2026,2026-05,2026,Saturday
+SES000138,CUST01375,30-05-2026,purchase,Social,Desktop,P006,Cotton T-Shirt,Fashion,ORD001379,South,30-05-2026,2026-05,2026,Saturday
+SES001578,CUST00515,30-05-2026,purchase,Search,Desktop,P001,Wireless Earbuds,Electronics,ORD000992,Central,30-05-2026,2026-05,2026,Saturday
+SES001958,CUST00746,31-05-2026,purchase,Social,Desktop,P017,Hair Dryer,Beauty & Personal Care,ORD001208,West,31-05-2026,2026-05,2026,Sunday
+SES002354,CUST01405,31-05-2026,purchase,Search,Tablet,P006,Cotton T-Shirt,Fashion,ORD000264,South,31-05-2026,2026-05,2026,Sunday
+SES003273,CUST01240,31-05-2026,purchase,Social,Mobile,P009,Water Bottle,Home & Kitchen,ORD001188,East,31-05-2026,2026-05,2026,Sunday
+SES000751,CUST00934,31-05-2026,purchase,Search,Mobile,P015,Dumbbell Set,Sports & Fitness,ORD000333,Central,31-05-2026,2026-05,2026,Sunday
+SES003005,CUST01015,01-06-2026,purchase,Email,Mobile,P004,Laptop Backpack,Fashion,ORD001214,East,01-06-2026,2026-06,2026,Monday
+SES003529,CUST00713,01-06-2026,purchase,Search,Desktop,P019,Sunglasses,Fashion,ORD000411,Central,01-06-2026,2026-06,2026,Monday
+SES002188,CUST01041,01-06-2026,purchase,Referral,Mobile,P013,Study Table,Furniture,ORD000335,Central,01-06-2026,2026-06,2026,Monday
+SES001707,CUST01127,01-06-2026,purchase,Social,Desktop,P010,Notebook Set,Books & Stationery,ORD000950,West,01-06-2026,2026-06,2026,Monday
+SES002621,CUST01144,01-06-2026,purchase,Referral,Mobile,P013,Study Table,Furniture,ORD000244,East,01-06-2026,2026-06,2026,Monday
+SES003470,CUST00526,01-06-2026,purchase,Social,Mobile,P014,Yoga Mat,Sports & Fitness,ORD001093,West,01-06-2026,2026-06,2026,Monday
+SES001783,CUST00470,01-06-2026,purchase,Search,Desktop,P005,Running Shoes,Fashion,ORD001352,South,01-06-2026,2026-06,2026,Monday
+SES003576,CUST01710,01-06-2026,purchase,Social,Desktop,P014,Yoga Mat,Sports & Fitness,ORD000955,South,01-06-2026,2026-06,2026,Monday
+SES002711,CUST00455,02-06-2026,purchase,Social,Desktop,P013,Study Table,Furniture,ORD000887,North,02-06-2026,2026-06,2026,Tuesday
+SES001516,CUST01004,02-06-2026,purchase,Referral,Mobile,P004,Laptop Backpack,Fashion,ORD000080,Central,02-06-2026,2026-06,2026,Tuesday
+SES000270,CUST00918,02-06-2026,purchase,Search,Mobile,P009,Water Bottle,Home & Kitchen,ORD000949,North,02-06-2026,2026-06,2026,Tuesday
+SES003159,CUST00047,03-06-2026,purchase,Direct,Desktop,P004,Laptop Backpack,Fashion,ORD000042,West,03-06-2026,2026-06,2026,Wednesday
+SES000577,CUST01729,03-06-2026,purchase,Direct,Desktop,P019,Sunglasses,Fashion,ORD000367,Central,03-06-2026,2026-06,2026,Wednesday
+SES000802,CUST00022,03-06-2026,purchase,Social,Desktop,P011,Programming Book,Books & Stationery,ORD000989,Central,03-06-2026,2026-06,2026,Wednesday
+SES000863,CUST01285,03-06-2026,purchase,Search,Mobile,P019,Sunglasses,Fashion,ORD000040,West,03-06-2026,2026-06,2026,Wednesday
+SES001768,CUST01452,03-06-2026,purchase,Search,Desktop,P003,Bluetooth Speaker,Electronics,ORD001201,South,03-06-2026,2026-06,2026,Wednesday
+SES001185,CUST00339,04-06-2026,purchase,Email,Mobile,P014,Yoga Mat,Sports & Fitness,ORD000445,South,04-06-2026,2026-06,2026,Thursday
+SES002685,CUST01693,04-06-2026,purchase,Direct,Mobile,P008,Mixer Grinder,Home & Kitchen,ORD000007,Central,04-06-2026,2026-06,2026,Thursday
+SES000552,CUST01497,04-06-2026,purchase,Referral,Desktop,P018,Phone Charger,Electronics,ORD001296,East,04-06-2026,2026-06,2026,Thursday
+SES002043,CUST01513,04-06-2026,purchase,Email,Mobile,P015,Dumbbell Set,Sports & Fitness,ORD000816,East,04-06-2026,2026-06,2026,Thursday
+SES003408,CUST00127,04-06-2026,purchase,Search,Desktop,P001,Wireless Earbuds,Electronics,ORD000086,North,04-06-2026,2026-06,2026,Thursday
+SES003536,CUST00924,05-06-2026,purchase,Social,Tablet,P016,Face Wash,Beauty & Personal Care,ORD001030,West,05-06-2026,2026-06,2026,Friday
+SES002299,CUST00192,05-06-2026,purchase,Email,Desktop,P016,Face Wash,Beauty & Personal Care,ORD000775,North,05-06-2026,2026-06,2026,Friday
+SES001262,CUST01313,05-06-2026,purchase,Search,Mobile,P001,Wireless Earbuds,Electronics,ORD000693,South,05-06-2026,2026-06,2026,Friday
+SES003201,CUST00998,05-06-2026,purchase,Email,Mobile,P003,Bluetooth Speaker,Electronics,ORD000338,North,05-06-2026,2026-06,2026,Friday
+SES001924,CUST00957,05-06-2026,purchase,Social,Mobile,P008,Mixer Grinder,Home & Kitchen,ORD001043,Central,05-06-2026,2026-06,2026,Friday
+SES001538,CUST00809,05-06-2026,purchase,Direct,Mobile,P003,Bluetooth Speaker,Electronics,ORD000994,South,05-06-2026,2026-06,2026,Friday
+SES002780,CUST00815,07-06-2026,purchase,Search,Mobile,P009,Water Bottle,Home & Kitchen,ORD000032,Central,07-06-2026,2026-06,2026,Sunday
+SES002071,CUST01154,07-06-2026,purchase,Direct,Mobile,P018,Phone Charger,Electronics,ORD000824,South,07-06-2026,2026-06,2026,Sunday
+SES001738,CUST01297,07-06-2026,purchase,Direct,Mobile,P013,Study Table,Furniture,ORD000493,Central,07-06-2026,2026-06,2026,Sunday
+SES002545,CUST00971,07-06-2026,purchase,Search,Desktop,P001,Wireless Earbuds,Electronics,ORD000998,Central,07-06-2026,2026-06,2026,Sunday
+SES001576,CUST00884,08-06-2026,purchase,Search,Mobile,P020,Kitchen Storage Box,Home & Kitchen,ORD000823,West,08-06-2026,2026-06,2026,Monday
+SES000619,CUST00817,08-06-2026,purchase,Email,Desktop,P006,Cotton T-Shirt,Fashion,ORD000573,West,08-06-2026,2026-06,2026,Monday
+SES001821,CUST01354,08-06-2026,purchase,Direct,Mobile,P019,Sunglasses,Fashion,ORD000603,West,08-06-2026,2026-06,2026,Monday
+SES001318,CUST00988,08-06-2026,purchase,Search,Mobile,P017,Hair Dryer,Beauty & Personal Care,ORD000199,South,08-06-2026,2026-06,2026,Monday
+SES003442,CUST01137,09-06-2026,purchase,Search,Tablet,P017,Hair Dryer,Beauty & Personal Care,ORD000742,East,09-06-2026,2026-06,2026,Tuesday
+SES003032,CUST00032,09-06-2026,purchase,Direct,Mobile,P010,Notebook Set,Books & Stationery,ORD000181,South,09-06-2026,2026-06,2026,Tuesday
+SES001434,CUST00427,09-06-2026,purchase,Email,Mobile,P016,Face Wash,Beauty & Personal Care,ORD001336,Central,09-06-2026,2026-06,2026,Tuesday
+SES001026,CUST00504,10-06-2026,purchase,Search,Mobile,P010,Notebook Set,Books & Stationery,ORD001106,Central,10-06-2026,2026-06,2026,Wednesday
+SES002305,CUST01295,10-06-2026,purchase,Search,Mobile,P003,Bluetooth Speaker,Electronics,ORD000818,North,10-06-2026,2026-06,2026,Wednesday
+SES000066,CUST01005,11-06-2026,purchase,Search,Desktop,P004,Laptop Backpack,Fashion,ORD001337,West,11-06-2026,2026-06,2026,Thursday
+SES003034,CUST01376,11-06-2026,purchase,Search,Mobile,P012,Office Chair,Furniture,ORD001025,South,11-06-2026,2026-06,2026,Thursday
+SES000836,CUST00289,11-06-2026,purchase,Referral,Mobile,P009,Water Bottle,Home & Kitchen,ORD000021,West,11-06-2026,2026-06,2026,Thursday
+SES002735,CUST01549,12-06-2026,purchase,Direct,Mobile,P011,Programming Book,Books & Stationery,ORD000739,Central,12-06-2026,2026-06,2026,Friday
+SES002793,CUST01225,12-06-2026,purchase,Search,Desktop,P012,Office Chair,Furniture,ORD000313,West,12-06-2026,2026-06,2026,Friday
+SES000729,CUST00495,12-06-2026,purchase,Social,Mobile,P009,Water Bottle,Home & Kitchen,ORD001197,Central,12-06-2026,2026-06,2026,Friday
+SES003537,CUST01208,12-06-2026,purchase,Search,Desktop,P003,Bluetooth Speaker,Electronics,ORD001196,North,12-06-2026,2026-06,2026,Friday
+SES003559,CUST00187,12-06-2026,purchase,Social,Mobile,P002,Smart Watch,Electronics,ORD000380,North,12-06-2026,2026-06,2026,Friday
+SES002394,CUST01130,13-06-2026,purchase,Direct,Desktop,P010,Notebook Set,Books & Stationery,ORD000087,West,13-06-2026,2026-06,2026,Saturday
+SES000921,CUST01194,13-06-2026,purchase,Search,Desktop,P017,Hair Dryer,Beauty & Personal Care,ORD000527,South,13-06-2026,2026-06,2026,Saturday
+SES002962,CUST00318,13-06-2026,purchase,Email,Mobile,P009,Water Bottle,Home & Kitchen,ORD000684,Central,13-06-2026,2026-06,2026,Saturday
+SES000428,CUST00575,14-06-2026,purchase,Search,Mobile,P014,Yoga Mat,Sports & Fitness,ORD000125,North,14-06-2026,2026-06,2026,Sunday
+SES001403,CUST00693,14-06-2026,purchase,Social,Desktop,P007,Coffee Maker,Home & Kitchen,ORD001186,Central,14-06-2026,2026-06,2026,Sunday
+SES002744,CUST01183,15-06-2026,purchase,Referral,Mobile,P016,Face Wash,Beauty & Personal Care,ORD001262,South,15-06-2026,2026-06,2026,Monday
+SES002878,CUST00580,15-06-2026,purchase,Direct,Mobile,P009,Water Bottle,Home & Kitchen,ORD000639,North,15-06-2026,2026-06,2026,Monday
+SES000963,CUST01192,15-06-2026,purchase,Search,Desktop,P004,Laptop Backpack,Fashion,ORD000698,Central,15-06-2026,2026-06,2026,Monday
+SES000557,CUST00182,16-06-2026,purchase,Social,Desktop,P001,Wireless Earbuds,Electronics,ORD000250,South,16-06-2026,2026-06,2026,Tuesday
+SES002952,CUST01246,16-06-2026,purchase,Direct,Desktop,P002,Smart Watch,Electronics,ORD000765,North,16-06-2026,2026-06,2026,Tuesday
+SES000029,CUST01368,17-06-2026,purchase,Email,Mobile,P010,Notebook Set,Books & Stationery,ORD001283,West,17-06-2026,2026-06,2026,Wednesday
+SES003557,CUST00042,17-06-2026,purchase,Search,Mobile,P008,Mixer Grinder,Home & Kitchen,ORD000419,West,17-06-2026,2026-06,2026,Wednesday
+SES002766,CUST00571,17-06-2026,purchase,Direct,Mobile,P012,Office Chair,Furniture,ORD000701,East,17-06-2026,2026-06,2026,Wednesday
+SES000720,CUST01139,18-06-2026,purchase,Referral,Mobile,P015,Dumbbell Set,Sports & Fitness,ORD000305,North,18-06-2026,2026-06,2026,Thursday
+SES000022,CUST00630,19-06-2026,purchase,Direct,Desktop,P002,Smart Watch,Electronics,ORD001130,Central,19-06-2026,2026-06,2026,Friday
+SES002381,CUST00151,19-06-2026,purchase,Search,Mobile,P005,Running Shoes,Fashion,ORD000260,West,19-06-2026,2026-06,2026,Friday
+SES002817,CUST00304,19-06-2026,purchase,Email,Mobile,P019,Sunglasses,Fashion,ORD001323,North,19-06-2026,2026-06,2026,Friday
+SES002395,CUST01202,19-06-2026,purchase,Email,Tablet,P013,Study Table,Furniture,ORD000219,East,19-06-2026,2026-06,2026,Friday
+SES000350,CUST00399,20-06-2026,purchase,Email,Mobile,P005,Running Shoes,Fashion,ORD000572,West,20-06-2026,2026-06,2026,Saturday
+SES002182,CUST00034,20-06-2026,purchase,Search,Mobile,P013,Study Table,Furniture,ORD000334,South,20-06-2026,2026-06,2026,Saturday
+SES001591,CUST01800,20-06-2026,purchase,Social,Tablet,P010,Notebook Set,Books & Stationery,ORD000446,East,20-06-2026,2026-06,2026,Saturday
+SES001563,CUST00995,20-06-2026,purchase,Direct,Tablet,P004,Laptop Backpack,Fashion,ORD000488,East,20-06-2026,2026-06,2026,Saturday
+SES000126,CUST00801,20-06-2026,purchase,Email,Mobile,P016,Face Wash,Beauty & Personal Care,ORD001239,East,20-06-2026,2026-06,2026,Saturday
+SES002278,CUST00919,21-06-2026,purchase,Email,Mobile,P018,Phone Charger,Electronics,ORD001124,West,21-06-2026,2026-06,2026,Sunday
+SES000114,CUST01711,21-06-2026,purchase,Direct,Mobile,P006,Cotton T-Shirt,Fashion,ORD000825,West,21-06-2026,2026-06,2026,Sunday
+SES002018,CUST00921,22-06-2026,purchase,Search,Mobile,P009,Water Bottle,Home & Kitchen,ORD000515,West,22-06-2026,2026-06,2026,Monday
+SES002506,CUST01142,22-06-2026,purchase,Search,Desktop,P015,Dumbbell Set,Sports & Fitness,ORD000029,South,22-06-2026,2026-06,2026,Monday
+SES002436,CUST00002,22-06-2026,purchase,Referral,Tablet,P017,Hair Dryer,Beauty & Personal Care,ORD001095,Central,22-06-2026,2026-06,2026,Monday
+SES002742,CUST00054,22-06-2026,purchase,Social,Desktop,P018,Phone Charger,Electronics,ORD000615,South,22-06-2026,2026-06,2026,Monday
+SES001836,CUST00828,22-06-2026,purchase,Search,Mobile,P005,Running Shoes,Fashion,ORD001294,South,22-06-2026,2026-06,2026,Monday
+SES003207,CUST01087,22-06-2026,purchase,Search,Mobile,P019,Sunglasses,Fashion,ORD000167,South,22-06-2026,2026-06,2026,Monday
+SES001806,CUST01543,23-06-2026,purchase,Email,Desktop,P009,Water Bottle,Home & Kitchen,ORD000475,East,23-06-2026,2026-06,2026,Tuesday
+SES000633,CUST00553,23-06-2026,purchase,Search,Mobile,P008,Mixer Grinder,Home & Kitchen,ORD000971,West,23-06-2026,2026-06,2026,Tuesday
+SES003276,CUST00130,23-06-2026,purchase,Direct,Tablet,P006,Cotton T-Shirt,Fashion,ORD001109,West,23-06-2026,2026-06,2026,Tuesday
+SES001910,CUST00069,23-06-2026,purchase,Direct,Mobile,P006,Cotton T-Shirt,Fashion,ORD000054,Central,23-06-2026,2026-06,2026,Tuesday
+SES001102,CUST00734,23-06-2026,purchase,Email,Desktop,P009,Water Bottle,Home & Kitchen,ORD000885,East,23-06-2026,2026-06,2026,Tuesday
+SES000448,CUST01112,24-06-2026,purchase,Search,Desktop,P007,Coffee Maker,Home & Kitchen,ORD000925,Central,24-06-2026,2026-06,2026,Wednesday
+SES002131,CUST00506,25-06-2026,purchase,Social,Mobile,P019,Sunglasses,Fashion,ORD000610,Central,25-06-2026,2026-06,2026,Thursday
+SES001660,CUST00165,25-06-2026,purchase,Direct,Mobile,P017,Hair Dryer,Beauty & Personal Care,ORD001152,West,25-06-2026,2026-06,2026,Thursday
+SES003481,CUST00216,25-06-2026,purchase,Search,Mobile,P020,Kitchen Storage Box,Home & Kitchen,ORD000034,North,25-06-2026,2026-06,2026,Thursday
+SES002220,CUST01672,25-06-2026,purchase,Email,Desktop,P019,Sunglasses,Fashion,ORD001365,North,25-06-2026,2026-06,2026,Thursday
+SES001839,CUST01388,26-06-2026,purchase,Email,Mobile,P007,Coffee Maker,Home & Kitchen,ORD001049,North,26-06-2026,2026-06,2026,Friday
+SES003378,CUST00627,26-06-2026,purchase,Referral,Desktop,P001,Wireless Earbuds,Electronics,ORD000049,East,26-06-2026,2026-06,2026,Friday
+SES001040,CUST00364,26-06-2026,purchase,Email,Desktop,P003,Bluetooth Speaker,Electronics,ORD000508,West,26-06-2026,2026-06,2026,Friday
+SES002250,CUST01390,26-06-2026,purchase,Search,Desktop,P018,Phone Charger,Electronics,ORD000910,West,26-06-2026,2026-06,2026,Friday
+SES002727,CUST00662,26-06-2026,purchase,Search,Mobile,P013,Study Table,Furniture,ORD001023,South,26-06-2026,2026-06,2026,Friday
+SES002788,CUST01547,26-06-2026,purchase,Social,Desktop,P009,Water Bottle,Home & Kitchen,ORD000273,Central,26-06-2026,2026-06,2026,Friday
+SES000163,CUST00384,26-06-2026,purchase,Direct,Desktop,P020,Kitchen Storage Box,Home & Kitchen,ORD001204,Central,26-06-2026,2026-06,2026,Friday
+SES002246,CUST00981,27-06-2026,purchase,Email,Desktop,P009,Water Bottle,Home & Kitchen,ORD000358,East,27-06-2026,2026-06,2026,Saturday
+SES002546,CUST00521,27-06-2026,purchase,Social,Mobile,P016,Face Wash,Beauty & Personal Care,ORD000891,North,27-06-2026,2026-06,2026,Saturday
+SES000435,CUST00455,27-06-2026,purchase,Search,Desktop,P011,Programming Book,Books & Stationery,ORD001285,West,27-06-2026,2026-06,2026,Saturday
+SES000807,CUST01798,27-06-2026,purchase,Search,Mobile,P018,Phone Charger,Electronics,ORD000612,North,27-06-2026,2026-06,2026,Saturday
+SES002118,CUST01478,28-06-2026,purchase,Social,Mobile,P017,Hair Dryer,Beauty & Personal Care,ORD001273,South,28-06-2026,2026-06,2026,Sunday
+SES003243,CUST00018,28-06-2026,purchase,Search,Mobile,P016,Face Wash,Beauty & Personal Care,ORD000191,West,28-06-2026,2026-06,2026,Sunday
+SES000471,CUST00958,28-06-2026,purchase,Direct,Mobile,P012,Office Chair,Furniture,ORD000540,South,28-06-2026,2026-06,2026,Sunday
+SES002684,CUST01200,28-06-2026,purchase,Email,Desktop,P004,Laptop Backpack,Fashion,ORD000669,North,28-06-2026,2026-06,2026,Sunday
+SES000541,CUST01373,28-06-2026,purchase,Direct,Mobile,P015,Dumbbell Set,Sports & Fitness,ORD000221,West,28-06-2026,2026-06,2026,Sunday
+SES003596,CUST00242,29-06-2026,purchase,Email,Desktop,P011,Programming Book,Books & Stationery,ORD001187,Central,29-06-2026,2026-06,2026,Monday
+SES000389,CUST01618,29-06-2026,purchase,Search,Mobile,P003,Bluetooth Speaker,Electronics,ORD001020,Central,29-06-2026,2026-06,2026,Monday
+SES000343,CUST00117,30-06-2026,purchase,Search,Desktop,P018,Phone Charger,Electronics,ORD000122,North,30-06-2026,2026-06,2026,Tuesday
+SES000522,CUST01493,30-06-2026,purchase,Search,Mobile,P015,Dumbbell Set,Sports & Fitness,ORD000156,North,30-06-2026,2026-06,2026,Tuesday
+SES002949,CUST00410,30-06-2026,purchase,Social,Mobile,P001,Wireless Earbuds,Electronics,ORD000990,West,30-06-2026,2026-06,2026,Tuesday
+SES002437,CUST00216,30-06-2026,purchase,Social,Mobile,P016,Face Wash,Beauty & Personal Care,ORD000444,North,30-06-2026,2026-06,2026,Tuesday
